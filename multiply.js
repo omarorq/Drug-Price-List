@@ -2903,3 +2903,2546 @@ function i369() {
         var i369T = i369 * i369U;
           document.getElementById('i369P').value = i369T.toFixed(2); 
 }
+function i370() {
+        var i370 = document.getElementById('i370').value;
+        var i370U = document.getElementById('i370U').value; 
+        var i370T = i370 * i370U;
+          document.getElementById('i370P').value = i370T.toFixed(2); 
+}
+function i371() {
+        var i371 = document.getElementById('i371').value;
+        var i371U = document.getElementById('i371U').value; 
+        var i371T = i371 * i371U;
+          document.getElementById('i371P').value = i371T.toFixed(2); 
+} 
+function i372() {
+        var i372 = document.getElementById('i372').value;
+        var i372U = document.getElementById('i372U').value; 
+        var i372T = i372 * i372U;
+          document.getElementById('i372P').value = i372T.toFixed(2); 
+} 
+function i373() {
+        var i373 = document.getElementById('i373').value;
+        var i373U = document.getElementById('i373U').value; 
+        var i373T = i373 * i373U;
+          document.getElementById('i373P').value = i373T.toFixed(2); 
+} 
+function i374() {
+        var i374 = document.getElementById('i374').value;
+        var i374U = document.getElementById('i374U').value; 
+        var i374T = i374 * i374U;
+          document.getElementById('i374P').value = i374T.toFixed(2); 
+} 
+function i375() {
+        var i375 = document.getElementById('i375').value;
+        var i375U = document.getElementById('i375U').value; 
+        var i375T = i375 * i375U;
+          document.getElementById('i375P').value = i375T.toFixed(2); 
+} 
+function i376() {
+        var i376 = document.getElementById('i376').value;
+        var i376U = document.getElementById('i376U').value; 
+        var i376T = i376 * i376U;
+          document.getElementById('i376P').value = i376T.toFixed(2); 
+} 
+function i377() {
+        var i377 = document.getElementById('i377').value;
+        var i377U = document.getElementById('i377U').value; 
+        var i377T = i377 * i377U;
+          document.getElementById('i377P').value = i377T.toFixed(2); 
+} 
+function i378() {
+        var i378 = document.getElementById('i378').value;
+        var i378U = document.getElementById('i378U').value; 
+        var i378T = i378 * i378U;
+          document.getElementById('i378P').value = i378T.toFixed(2); 
+} 
+function i379() {
+        var i379 = document.getElementById('i379').value;
+        var i379U = document.getElementById('i379U').value; 
+        var i379T = i379 * i379U;
+          document.getElementById('i379P').value = i369T.toFixed(2); 
+}
+function i380() {
+        var i380 = document.getElementById('i380').value;
+        var i380U = document.getElementById('i380U').value; 
+        var i380T = i380 * i380U;
+          document.getElementById('i380P').value = i380T.toFixed(2); 
+}
+function i381() {
+        var i381 = document.getElementById('i381').value;
+        var i381U = document.getElementById('i381U').value; 
+        var i381T = i381 * i381U;
+          document.getElementById('i381P').value = i381T.toFixed(2); 
+} 
+function i382() {
+        var i382 = document.getElementById('i382').value;
+        var i382U = document.getElementById('i382U').value; 
+        var i382T = i382 * i382U;
+          document.getElementById('i382P').value = i382T.toFixed(2); 
+} 
+function i383() {
+        var i383 = document.getElementById('i383').value;
+        var i383U = document.getElementById('i383U').value; 
+        var i383T = i383 * i383U;
+          document.getElementById('i383P').value = i383T.toFixed(2); 
+} 
+function i384() {
+        var i384 = document.getElementById('i384').value;
+        var i384U = document.getElementById('i384U').value; 
+        var i384T = i384 * i384U;
+          document.getElementById('i384P').value = i384T.toFixed(2); 
+} 
+function i385() {
+        var i385 = document.getElementById('i385').value;
+        var i385U = document.getElementById('i385U').value; 
+        var i385T = i385 * i385U;
+          document.getElementById('i385P').value = i385T.toFixed(2); 
+} 
+function i386() {
+        var i386 = document.getElementById('i386').value;
+        var i386U = document.getElementById('i386U').value; 
+        var i386T = i386 * i386U;
+          document.getElementById('i386P').value = i386T.toFixed(2); 
+} 
+function i387() {
+        var i387 = document.getElementById('i387').value;
+        var i387U = document.getElementById('i387U').value; 
+        var i387T = i387 * i387U;
+          document.getElementById('i387P').value = i387T.toFixed(2); 
+} 
+function i388() {
+        var i388 = document.getElementById('i388').value;
+        var i388U = document.getElementById('i388U').value; 
+        var i388T = i388 * i388U;
+          document.getElementById('i388P').value = i388T.toFixed(2); 
+} 
+function i389() {
+        var i389 = document.getElementById('i389').value;
+        var i389U = document.getElementById('i389U').value; 
+        var i389T = i389 * i389U;
+          document.getElementById('i389P').value = i389T.toFixed(2); 
+}
+function i390() {
+        var i390 = document.getElementById('i390').value;
+        var i390U = document.getElementById('i390U').value; 
+        var i390T = i390 * i390U;
+          document.getElementById('i390P').value = i390T.toFixed(2); 
+}
+function i391() {
+        var i391 = document.getElementById('i391').value;
+        var i391U = document.getElementById('i391U').value; 
+        var i391T = i391 * i391U;
+          document.getElementById('i391P').value = i391T.toFixed(2); 
+} 
+function i392() {
+        var i392 = document.getElementById('i392').value;
+        var i392U = document.getElementById('i392U').value; 
+        var i392T = i392 * i392U;
+          document.getElementById('i392P').value = i392T.toFixed(2); 
+} 
+function i393() {
+        var i393 = document.getElementById('i393').value;
+        var i393U = document.getElementById('i393U').value; 
+        var i393T = i393 * i393U;
+          document.getElementById('i393P').value = i393T.toFixed(2); 
+} 
+function i394() {
+        var i394 = document.getElementById('i394').value;
+        var i394U = document.getElementById('i394U').value; 
+        var i394T = i394 * i394U;
+          document.getElementById('i394P').value = i394T.toFixed(2); 
+} 
+function i395() {
+        var i395 = document.getElementById('i395').value;
+        var i395U = document.getElementById('i395U').value; 
+        var i395T = i395 * i395U;
+          document.getElementById('i395P').value = i395T.toFixed(2); 
+} 
+function i396() {
+        var i396 = document.getElementById('i396').value;
+        var i396U = document.getElementById('i396U').value; 
+        var i396T = i396 * i396U;
+          document.getElementById('i396P').value = i396T.toFixed(2); 
+} 
+function i397() {
+        var i397 = document.getElementById('i397').value;
+        var i397U = document.getElementById('i397U').value; 
+        var i397T = i397 * i397U;
+          document.getElementById('i397P').value = i397T.toFixed(2); 
+} 
+function i398() {
+        var i398 = document.getElementById('i398').value;
+        var i398U = document.getElementById('i398U').value; 
+        var i398T = i398 * i398U;
+          document.getElementById('i398P').value = i398T.toFixed(2); 
+} 
+function i399() {
+        var i399 = document.getElementById('i399').value;
+        var i399U = document.getElementById('i399U').value; 
+        var i399T = i399 * i399U;
+          document.getElementById('i399P').value = i399T.toFixed(2); 
+}
+function i400() {
+        var i400 = document.getElementById('i400').value;
+        var i400U = document.getElementById('i400U').value; 
+        var i400T = i400 * i400U;
+          document.getElementById('i400P').value = i400T.toFixed(2); 
+}
+function i401() {
+        var i401 = document.getElementById('i401').value;
+        var i401U = document.getElementById('i401U').value; 
+        var i401T = i401 * i401U;
+          document.getElementById('i401P').value = i401T.toFixed(2); 
+} 
+function i402() {
+        var i402 = document.getElementById('i402').value;
+        var i402U = document.getElementById('i402U').value; 
+        var i402T = i402 * i402U;
+          document.getElementById('i402P').value = i402T.toFixed(2); 
+} 
+function i403() {
+        var i403 = document.getElementById('i403').value;
+        var i403U = document.getElementById('i403U').value; 
+        var i403T = i403 * i403U;
+          document.getElementById('i403P').value = i403T.toFixed(2); 
+} 
+function i404() {
+        var i404 = document.getElementById('i404').value;
+        var i404U = document.getElementById('i404U').value; 
+        var i404T = i404 * i404U;
+          document.getElementById('i404P').value = i404T.toFixed(2); 
+} 
+function i405() {
+        var i405 = document.getElementById('i405').value;
+        var i405U = document.getElementById('i405U').value; 
+        var i405T = i405 * i405U;
+          document.getElementById('i405P').value = i405T.toFixed(2); 
+} 
+function i406() {
+        var i406 = document.getElementById('i406').value;
+        var i406U = document.getElementById('i406U').value; 
+        var i406T = i406 * i406U;
+          document.getElementById('i406P').value = i406T.toFixed(2); 
+} 
+function i407() {
+        var i407 = document.getElementById('i407').value;
+        var i407U = document.getElementById('i407U').value; 
+        var i407T = i407 * i407U;
+          document.getElementById('i407P').value = i407T.toFixed(2); 
+} 
+function i408() {
+        var i408 = document.getElementById('i408').value;
+        var i408U = document.getElementById('i408U').value; 
+        var i408T = i408 * i408U;
+          document.getElementById('i408P').value = i408T.toFixed(2); 
+} 
+function i409() {
+        var i409 = document.getElementById('i409').value;
+        var i409U = document.getElementById('i409U').value; 
+        var i409T = i409 * i409U;
+          document.getElementById('i409P').value = i409T.toFixed(2); 
+}
+function i410() {
+        var i410 = document.getElementById('i410').value;
+        var i410U = document.getElementById('i410U').value; 
+        var i410T = i410 * i410U;
+          document.getElementById('i410P').value = i410T.toFixed(2); 
+}
+function i411() {
+        var i411 = document.getElementById('i411').value;
+        var i411U = document.getElementById('i411U').value; 
+        var i411T = i411 * i411U;
+          document.getElementById('i411P').value = i411T.toFixed(2); 
+} 
+function i412() {
+        var i412 = document.getElementById('i412').value;
+        var i412U = document.getElementById('i412U').value; 
+        var i412T = i412 * i412U;
+          document.getElementById('i412P').value = i412T.toFixed(2); 
+} 
+function i413() {
+        var i413 = document.getElementById('i413').value;
+        var i413U = document.getElementById('i413U').value; 
+        var i413T = i413 * i413U;
+          document.getElementById('i413P').value = i413T.toFixed(2); 
+} 
+function i414() {
+        var i414 = document.getElementById('i414').value;
+        var i414U = document.getElementById('i414U').value; 
+        var i414T = i414 * i414U;
+          document.getElementById('i414P').value = i414T.toFixed(2); 
+} 
+function i415() {
+        var i415 = document.getElementById('i415').value;
+        var i415U = document.getElementById('i415U').value; 
+        var i415T = i415 * i415U;
+          document.getElementById('i415P').value = i415T.toFixed(2); 
+} 
+function i416() {
+        var i416 = document.getElementById('i416').value;
+        var i416U = document.getElementById('i416U').value; 
+        var i416T = i416 * i416U;
+          document.getElementById('i416P').value = i416T.toFixed(2); 
+} 
+function i417() {
+        var i417 = document.getElementById('i417').value;
+        var i417U = document.getElementById('i417U').value; 
+        var i417T = i417 * i417U;
+          document.getElementById('i417P').value = i417T.toFixed(2); 
+} 
+function i418() {
+        var i418 = document.getElementById('i418').value;
+        var i418U = document.getElementById('i418U').value; 
+        var i418T = i418 * i418U;
+          document.getElementById('i418P').value = i418T.toFixed(2); 
+} 
+function i419() {
+        var i419 = document.getElementById('i419').value;
+        var i419U = document.getElementById('i419U').value; 
+        var i419T = i419 * i419U;
+          document.getElementById('i419P').value = i419T.toFixed(2); 
+}
+function i420() {
+        var i420 = document.getElementById('i420').value;
+        var i420U = document.getElementById('i420U').value; 
+        var i420T = i420 * i420U;
+          document.getElementById('i420P').value = i420T.toFixed(2); 
+}
+function i421() {
+        var i421 = document.getElementById('i421').value;
+        var i421U = document.getElementById('i421U').value; 
+        var i421T = i421 * i421U;
+          document.getElementById('i421P').value = i421T.toFixed(2); 
+} 
+function i422() {
+        var i422 = document.getElementById('i422').value;
+        var i422U = document.getElementById('i422U').value; 
+        var i422T = i422 * i422U;
+          document.getElementById('i422P').value = i422T.toFixed(2); 
+} 
+function i423() {
+        var i423 = document.getElementById('i423').value;
+        var i423U = document.getElementById('i423U').value; 
+        var i423T = i423 * i423U;
+          document.getElementById('i423P').value = i423T.toFixed(2); 
+} 
+function i424() {
+        var i424 = document.getElementById('i424').value;
+        var i424U = document.getElementById('i424U').value; 
+        var i424T = i424 * i424U;
+          document.getElementById('i424P').value = i424T.toFixed(2); 
+} 
+function i425() {
+        var i425 = document.getElementById('i425').value;
+        var i425U = document.getElementById('i425U').value; 
+        var i425T = i425 * i425U;
+          document.getElementById('i425P').value = i425T.toFixed(2); 
+} 
+function i426() {
+        var i426 = document.getElementById('i426').value;
+        var i426U = document.getElementById('i426U').value; 
+        var i426T = i426 * i426U;
+          document.getElementById('i426P').value = i426T.toFixed(2); 
+} 
+function i427() {
+        var i427 = document.getElementById('i427').value;
+        var i427U = document.getElementById('i427U').value; 
+        var i427T = i427 * i427U;
+          document.getElementById('i427P').value = i427T.toFixed(2); 
+} 
+function i428() {
+        var i428 = document.getElementById('i428').value;
+        var i428U = document.getElementById('i428U').value; 
+        var i428T = i428 * i428U;
+          document.getElementById('i428P').value = i428T.toFixed(2); 
+} 
+function i429() {
+        var i429 = document.getElementById('i429').value;
+        var i429U = document.getElementById('i429U').value; 
+        var i429T = i429 * i429U;
+          document.getElementById('i429P').value = i429T.toFixed(2); 
+}
+function i430() {
+        var i430 = document.getElementById('i430').value;
+        var i430U = document.getElementById('i430U').value; 
+        var i430T = i430 * i430U;
+          document.getElementById('i430P').value = i430T.toFixed(2); 
+}
+function i431() {
+        var i431 = document.getElementById('i431').value;
+        var i431U = document.getElementById('i431U').value; 
+        var i431T = i431 * i431U;
+          document.getElementById('i431P').value = i431T.toFixed(2); 
+} 
+function i432() {
+        var i432 = document.getElementById('i432').value;
+        var i432U = document.getElementById('i432U').value; 
+        var i432T = i432 * i432U;
+          document.getElementById('i432P').value = i432T.toFixed(2); 
+} 
+function i433() {
+        var i433 = document.getElementById('i433').value;
+        var i433U = document.getElementById('i433U').value; 
+        var i433T = i433 * i433U;
+          document.getElementById('i433P').value = i433T.toFixed(2); 
+} 
+function i434() {
+        var i434 = document.getElementById('i434').value;
+        var i434U = document.getElementById('i434U').value; 
+        var i434T = i434 * i434U;
+          document.getElementById('i434P').value = i434T.toFixed(2); 
+} 
+function i435() {
+        var i435 = document.getElementById('i435').value;
+        var i435U = document.getElementById('i435U').value; 
+        var i435T = i435 * i435U;
+          document.getElementById('i435P').value = i435T.toFixed(2); 
+} 
+function i436() {
+        var i436 = document.getElementById('i436').value;
+        var i436U = document.getElementById('i436U').value; 
+        var i436T = i436 * i436U;
+          document.getElementById('i436P').value = i436T.toFixed(2); 
+} 
+function i437() {
+        var i437 = document.getElementById('i437').value;
+        var i437U = document.getElementById('i437U').value; 
+        var i437T = i437 * i437U;
+          document.getElementById('i437P').value = i437T.toFixed(2); 
+} 
+function i438() {
+        var i438 = document.getElementById('i438').value;
+        var i438U = document.getElementById('i438U').value; 
+        var i438T = i438 * i438U;
+          document.getElementById('i438P').value = i438T.toFixed(2); 
+} 
+function i439() {
+        var i439 = document.getElementById('i439').value;
+        var i439U = document.getElementById('i439U').value; 
+        var i439T = i439 * i439U;
+          document.getElementById('i439P').value = i439T.toFixed(2); 
+}
+function i440() {
+        var i440 = document.getElementById('i440').value;
+        var i440U = document.getElementById('i440U').value; 
+        var i440T = i440 * i440U;
+          document.getElementById('i440P').value = i440T.toFixed(2); 
+}
+function i441() {
+        var i441 = document.getElementById('i441').value;
+        var i441U = document.getElementById('i441U').value; 
+        var i441T = i441 * i441U;
+          document.getElementById('i441P').value = i441T.toFixed(2); 
+} 
+function i442() {
+        var i442 = document.getElementById('i442').value;
+        var i442U = document.getElementById('i442U').value; 
+        var i442T = i442 * i442U;
+          document.getElementById('i442P').value = i442T.toFixed(2); 
+} 
+function i443() {
+        var i443 = document.getElementById('i443').value;
+        var i443U = document.getElementById('i443U').value; 
+        var i443T = i443 * i443U;
+          document.getElementById('i443P').value = i443T.toFixed(2); 
+} 
+function i444() {
+        var i444 = document.getElementById('i444').value;
+        var i444U = document.getElementById('i444U').value; 
+        var i444T = i444 * i444U;
+          document.getElementById('i444P').value = i444T.toFixed(2); 
+} 
+function i445() {
+        var i445 = document.getElementById('i445').value;
+        var i445U = document.getElementById('i445U').value; 
+        var i445T = i445 * i445U;
+          document.getElementById('i445P').value = i445T.toFixed(2); 
+} 
+function i446() {
+        var i446 = document.getElementById('i446').value;
+        var i446U = document.getElementById('i446U').value; 
+        var i446T = i446 * i446U;
+          document.getElementById('i446P').value = i446T.toFixed(2); 
+} 
+function i447() {
+        var i447 = document.getElementById('i447').value;
+        var i447U = document.getElementById('i447U').value; 
+        var i447T = i447 * i447U;
+          document.getElementById('i447P').value = i447T.toFixed(2); 
+} 
+function i448() {
+        var i448 = document.getElementById('i448').value;
+        var i448U = document.getElementById('i448U').value; 
+        var i448T = i448 * i448U;
+          document.getElementById('i448P').value = i448T.toFixed(2); 
+} 
+function i449() {
+        var i449 = document.getElementById('i449').value;
+        var i449U = document.getElementById('i449U').value; 
+        var i449T = i449 * i449U;
+          document.getElementById('i449P').value = i449T.toFixed(2); 
+}
+function i450() {
+        var i450 = document.getElementById('i450').value;
+        var i450U = document.getElementById('i450U').value; 
+        var i450T = i450 * i450U;
+          document.getElementById('i450P').value = i450T.toFixed(2); 
+}
+function i451() {
+        var i451 = document.getElementById('i451').value;
+        var i451U = document.getElementById('i451U').value; 
+        var i451T = i451 * i451U;
+          document.getElementById('i451P').value = i451T.toFixed(2); 
+} 
+function i452() {
+        var i452 = document.getElementById('i452').value;
+        var i452U = document.getElementById('i452U').value; 
+        var i452T = i452 * i452U;
+          document.getElementById('i452P').value = i452T.toFixed(2); 
+} 
+function i453() {
+        var i453 = document.getElementById('i453').value;
+        var i453U = document.getElementById('i453U').value; 
+        var i453T = i453 * i453U;
+          document.getElementById('i453P').value = i453T.toFixed(2); 
+} 
+function i454() {
+        var i454 = document.getElementById('i454').value;
+        var i454U = document.getElementById('i454U').value; 
+        var i454T = i454 * i454U;
+          document.getElementById('i454P').value = i454T.toFixed(2); 
+} 
+function i455() {
+        var i455 = document.getElementById('i455').value;
+        var i375U = document.getElementById('i375U').value; 
+        var i375T = i375 * i375U;
+          document.getElementById('i375P').value = i375T.toFixed(2); 
+} 
+function k456() {
+        var k456 = document.getElementById('k456').value;
+        var k456U = document.getElementById('k456U').value; 
+        var k456T = k456 * k456U;
+          document.getElementById('k456P').value = k456T.toFixed(2); 
+} 
+function k457() {
+        var k457 = document.getElementById('k457').value;
+        var k457U = document.getElementById('k457U').value; 
+        var k457T = k457 * k457U;
+          document.getElementById('k457P').value = k457T.toFixed(2); 
+} 
+function k458() {
+        var k458 = document.getElementById('k458').value;
+        var k458U = document.getElementById('k458U').value; 
+        var k458T = k458 * k458U;
+          document.getElementById('k458P').value = k458T.toFixed(2); 
+} 
+function l459() {
+        var l459 = document.getElementById('l459').value;
+        var l459U = document.getElementById('l459U').value; 
+        var l459T = l459 * l459U;
+          document.getElementById('l459P').value = l459T.toFixed(2); 
+}
+function l460() {
+        var l460 = document.getElementById('l460').value;
+        var l460U = document.getElementById('l460U').value; 
+        var l460T = l460 * l460U;
+          document.getElementById('l460P').value = l460T.toFixed(2); 
+}
+function l461() {
+        var l461 = document.getElementById('l461').value;
+        var l461U = document.getElementById('l461U').value; 
+        var l461T = l461 * l461U;
+          document.getElementById('l461P').value = l461T.toFixed(2); 
+} 
+function l462() {
+        var l462 = document.getElementById('l462').value;
+        var l462U = document.getElementById('l462U').value; 
+        var l462T = l462 * l462U;
+          document.getElementById('l462P').value = l462T.toFixed(2); 
+} 
+function l463() {
+        var l463 = document.getElementById('l463').value;
+        var l463U = document.getElementById('l463U').value; 
+        var l463T = l463 * l463U;
+          document.getElementById('l463P').value = l463T.toFixed(2); 
+} 
+function l464() {
+        var l464 = document.getElementById('l464').value;
+        var l464U = document.getElementById('l464U').value; 
+        var l464T = l464 * l464U;
+          document.getElementById('l464P').value = l464T.toFixed(2); 
+} 
+function l465() {
+        var l465 = document.getElementById('l465').value;
+        var l465U = document.getElementById('l465U').value; 
+        var l465T = l465 * l465U;
+          document.getElementById('l465P').value = l465T.toFixed(2); 
+} 
+function l466() {
+        var l466 = document.getElementById('l466').value;
+        var l466U = document.getElementById('l466U').value; 
+        var l466T = l466 * l466U;
+          document.getElementById('l466P').value = l466T.toFixed(2); 
+} 
+function l467() {
+        var l467 = document.getElementById('l467').value;
+        var l467U = document.getElementById('l467U').value; 
+        var l467T = l467 * l467U;
+          document.getElementById('l467P').value = l467T.toFixed(2); 
+} 
+function l468() {
+        var l468 = document.getElementById('l468').value;
+        var l468U = document.getElementById('l468U').value; 
+        var l468T = l468 * l468U;
+          document.getElementById('l468P').value = l468T.toFixed(2); 
+} 
+function l469() {
+        var l469 = document.getElementById('l469').value;
+        var l469U = document.getElementById('l469U').value; 
+        var l469T = l469 * l469U;
+          document.getElementById('l469P').value = l469T.toFixed(2); 
+}
+function l470() {
+        var l470 = document.getElementById('l470').value;
+        var l470U = document.getElementById('l470U').value; 
+        var l470T = l470 * l470U;
+          document.getElementById('l470P').value = l470T.toFixed(2); 
+}
+function l471() {
+        var l471 = document.getElementById('l471').value;
+        var l471U = document.getElementById('l471U').value; 
+        var l471T = l471 * l471U;
+          document.getElementById('l471P').value = l471T.toFixed(2); 
+} 
+function l472() {
+        var l472 = document.getElementById('l472').value;
+        var l472U = document.getElementById('l472U').value; 
+        var l472T = l472 * l472U;
+          document.getElementById('l472P').value = l472T.toFixed(2); 
+} 
+function l473() {
+        var l473 = document.getElementById('l473').value;
+        var l473U = document.getElementById('l473U').value; 
+        var l473T = l473 * l473U;
+          document.getElementById('l473P').value = l473T.toFixed(2); 
+} 
+function l474() {
+        var l474 = document.getElementById('l474').value;
+        var l474U = document.getElementById('l474U').value; 
+        var l474T = l474 * l474U;
+          document.getElementById('l474P').value = l474T.toFixed(2); 
+} 
+function l475() {
+        var l475 = document.getElementById('l475').value;
+        var l475U = document.getElementById('l475U').value; 
+        var l475T = l475 * l475U;
+          document.getElementById('l475P').value = l475T.toFixed(2); 
+} 
+function l476() {
+        var l476 = document.getElementById('l476').value;
+        var l476U = document.getElementById('l476U').value; 
+        var l476T = l476 * l476U;
+          document.getElementById('l476P').value = l476T.toFixed(2); 
+} 
+function l477() {
+        var l477 = document.getElementById('l477').value;
+        var l477U = document.getElementById('l477U').value; 
+        var l477T = l477 * l477U;
+          document.getElementById('l477P').value = l477T.toFixed(2); 
+} 
+function l478() {
+        var l478 = document.getElementById('l478').value;
+        var l478U = document.getElementById('l478U').value; 
+        var l478T = l478 * l478U;
+          document.getElementById('l478P').value = l478T.toFixed(2); 
+} 
+function l479() {
+        var l479 = document.getElementById('l479').value;
+        var l479U = document.getElementById('l479U').value; 
+        var l479T = l479 * l479U;
+          document.getElementById('l479P').value = l479T.toFixed(2); 
+}
+function l480() {
+        var l480 = document.getElementById('l480').value;
+        var l480U = document.getElementById('l480U').value; 
+        var l480T = l480 * l480U;
+          document.getElementById('l480P').value = l480T.toFixed(2); 
+}
+function l481() {
+        var l481 = document.getElementById('l481').value;
+        var l481U = document.getElementById('l481U').value; 
+        var l481T = l481 * l481U;
+          document.getElementById('l481P').value = l481T.toFixed(2); 
+} 
+function l482() {
+        var l482 = document.getElementById('l482').value;
+        var l482U = document.getElementById('l482U').value; 
+        var l482T = l482 * l482U;
+          document.getElementById('l482P').value = l482T.toFixed(2); 
+} 
+function l483() {
+        var l483 = document.getElementById('l483').value;
+        var l483U = document.getElementById('l483U').value; 
+        var l483T = l483 * l483U;
+          document.getElementById('l483P').value = l483T.toFixed(2); 
+} 
+function l484() {
+        var l484 = document.getElementById('l484').value;
+        var l484U = document.getElementById('l484U').value; 
+        var l484T = l484 * l484U;
+          document.getElementById('l484P').value = l484T.toFixed(2); 
+} 
+function l485() {
+        var l485 = document.getElementById('l485').value;
+        var l485U = document.getElementById('l485U').value; 
+        var l485T = l485 * l485U;
+          document.getElementById('l485P').value = l485T.toFixed(2); 
+} 
+function l486() {
+        var l486 = document.getElementById('l486').value;
+        var l486U = document.getElementById('l486U').value; 
+        var l486T = l486 * l486U;
+          document.getElementById('l486P').value = l486T.toFixed(2); 
+} 
+function l487() {
+        var l487 = document.getElementById('l487').value;
+        var l487U = document.getElementById('l487U').value; 
+        var l487T = l487 * l487U;
+          document.getElementById('l487P').value = l487T.toFixed(2); 
+} 
+function l488() {
+        var l488 = document.getElementById('l488').value;
+        var l488U = document.getElementById('l488U').value; 
+        var l488T = l488 * l488U;
+          document.getElementById('l488P').value = l488T.toFixed(2); 
+} 
+function l489() {
+        var l489 = document.getElementById('l489').value;
+        var l489U = document.getElementById('l489U').value; 
+        var l489T = l489 * l489U;
+          document.getElementById('l489P').value = l489T.toFixed(2); 
+}
+function l490() {
+        var l490 = document.getElementById('l490').value;
+        var l490U = document.getElementById('l490U').value; 
+        var l490T = l490 * l490U;
+          document.getElementById('l490P').value = l490T.toFixed(2); 
+}
+function l491() {
+        var l491 = document.getElementById('l491').value;
+        var l491U = document.getElementById('l491U').value; 
+        var l491T = l491 * l491U;
+          document.getElementById('l491P').value = l491T.toFixed(2); 
+} 
+function l492() {
+        var l492 = document.getElementById('l492').value;
+        var l492U = document.getElementById('l492U').value; 
+        var l492T = l492 * l492U;
+          document.getElementById('l492P').value = l492T.toFixed(2); 
+} 
+function l493() {
+        var l493 = document.getElementById('l493').value;
+        var l493U = document.getElementById('l493U').value; 
+        var l493T = l493 * l493U;
+          document.getElementById('l493P').value = l493T.toFixed(2); 
+} 
+function l494() {
+        var l494 = document.getElementById('l494').value;
+        var l494U = document.getElementById('l494U').value; 
+        var l494T = l494 * l494U;
+          document.getElementById('l494P').value = l494T.toFixed(2); 
+} 
+function l495() {
+        var l495 = document.getElementById('l495').value;
+        var l495U = document.getElementById('l495U').value; 
+        var l495T = l495 * l495U;
+          document.getElementById('l495P').value = l495T.toFixed(2); 
+} 
+function m496() {
+        var m496 = document.getElementById('m496').value;
+        var m496U = document.getElementById('m496U').value; 
+        var m496T = m496 * m496U;
+          document.getElementById('m496P').value = m496T.toFixed(2); 
+} 
+function m497() {
+        var m497 = document.getElementById('m497').value;
+        var m497U = document.getElementById('m497U').value; 
+        var m497T = m497 * m497U;
+          document.getElementById('m497P').value = m497T.toFixed(2); 
+} 
+function m498() {
+        var m498 = document.getElementById('m498').value;
+        var m498U = document.getElementById('m498U').value; 
+        var m498T = m498 * m498U;
+          document.getElementById('m498P').value = m498T.toFixed(2); 
+} 
+function m499() {
+        var m499 = document.getElementById('m499').value;
+        var m499U = document.getElementById('m499U').value; 
+        var m499T = m499 * m499U;
+          document.getElementById('m499P').value = m499T.toFixed(2); 
+}
+function m500() {
+        var m500 = document.getElementById('m500').value;
+        var m500U = document.getElementById('m500U').value; 
+        var m500T = m500 * m500U;
+          document.getElementById('m500P').value = m500T.toFixed(2); 
+}
+function m501() {
+        var m501 = document.getElementById('m501').value;
+        var m501U = document.getElementById('m501U').value; 
+        var m501T = m501 * m501U;
+          document.getElementById('m501P').value = m501T.toFixed(2); 
+} 
+function m502() {
+        var m502 = document.getElementById('m502').value;
+        var m502U = document.getElementById('m502U').value; 
+        var m502T = m502 * m502U;
+          document.getElementById('m502P').value = m502T.toFixed(2); 
+} 
+function m503() {
+        var m503 = document.getElementById('m503').value;
+        var m503U = document.getElementById('m503U').value; 
+        var m503T = m503 * m503U;
+          document.getElementById('m503P').value = m503T.toFixed(2); 
+} 
+function m504() {
+        var m504 = document.getElementById('m504').value;
+        var m504U = document.getElementById('m504U').value; 
+        var m504T = m504 * m504U;
+          document.getElementById('m504P').value = m504T.toFixed(2); 
+} 
+function m505() {
+        var m505 = document.getElementById('m505').value;
+        var m505U = document.getElementById('m505U').value; 
+        var m505T = m505 * m505U;
+          document.getElementById('m505P').value = m505T.toFixed(2); 
+} 
+function m506() {
+        var m506 = document.getElementById('m506').value;
+        var m506U = document.getElementById('m506U').value; 
+        var m506T = m506 * m506U;
+          document.getElementById('m506P').value = m506T.toFixed(2); 
+} 
+function m507() {
+        var m507 = document.getElementById('m507').value;
+        var m507U = document.getElementById('m507U').value; 
+        var m507T = m507 * m507U;
+          document.getElementById('m507P').value = m507T.toFixed(2); 
+} 
+function m508() {
+        var m508 = document.getElementById('m508').value;
+        var m508U = document.getElementById('m508U').value; 
+        var m508T = m508 * m508U;
+          document.getElementById('m508P').value = m508T.toFixed(2); 
+} 
+function m509() {
+        var m509 = document.getElementById('m509').value;
+        var m509U = document.getElementById('m509U').value; 
+        var m509T = m509 * m509U;
+          document.getElementById('m509P').value = m509T.toFixed(2); 
+}
+function m510() {
+        var m510 = document.getElementById('m510').value;
+        var m510U = document.getElementById('m510U').value; 
+        var m510T = m510 * m510U;
+          document.getElementById('m510P').value = m510T.toFixed(2); 
+}
+function m511() {
+        var m511 = document.getElementById('m511').value;
+        var m511U = document.getElementById('m511U').value; 
+        var m511T = m511 * m511U;
+          document.getElementById('m511P').value = m511T.toFixed(2); 
+} 
+function m512() {
+        var m512 = document.getElementById('m512').value;
+        var m512U = document.getElementById('m512U').value; 
+        var m512T = m512 * m512U;
+          document.getElementById('m512P').value = m512T.toFixed(2); 
+} 
+function m513() {
+        var m513 = document.getElementById('m513').value;
+        var m513U = document.getElementById('m513U').value; 
+        var m513T = m513 * m513U;
+          document.getElementById('m513P').value = m513T.toFixed(2); 
+} 
+function m514() {
+        var m514 = document.getElementById('m514').value;
+        var m514U = document.getElementById('m514U').value; 
+        var m514T = m514 * m514U;
+          document.getElementById('m514P').value = m514T.toFixed(2); 
+} 
+function m515() {
+        var m515 = document.getElementById('m515').value;
+        var m515U = document.getElementById('m515U').value; 
+        var m515T = m515 * m515U;
+          document.getElementById('m515P').value = m515T.toFixed(2); 
+} 
+function m516() {
+        var m516 = document.getElementById('m516').value;
+        var m516U = document.getElementById('m516U').value; 
+        var m516T = m516 * m516U;
+          document.getElementById('m516P').value = m516T.toFixed(2); 
+} 
+function m517() {
+        var m517 = document.getElementById('m517').value;
+        var m517U = document.getElementById('m517U').value; 
+        var m517T = m517 * m517U;
+          document.getElementById('m517P').value = m517T.toFixed(2); 
+} 
+function m518() {
+        var m518 = document.getElementById('m518').value;
+        var m518U = document.getElementById('m518U').value; 
+        var m518T = m518 * m518U;
+          document.getElementById('m518P').value = m518T.toFixed(2); 
+} 
+function m519() {
+        var m519 = document.getElementById('m519').value;
+        var m519U = document.getElementById('m519U').value; 
+        var m519T = m519 * m519U;
+          document.getElementById('m519P').value = m519T.toFixed(2); 
+}
+function m520() {
+        var m520 = document.getElementById('m520').value;
+        var m520U = document.getElementById('m520U').value; 
+        var m520T = m520 * m520U;
+          document.getElementById('m520P').value = m520T.toFixed(2); 
+}
+function m521() {
+        var m521 = document.getElementById('m521').value;
+        var m521U = document.getElementById('m521U').value; 
+        var m521T = m521 * m521U;
+          document.getElementById('m521P').value = m521T.toFixed(2); 
+} 
+function m522() {
+        var m522 = document.getElementById('m522').value;
+        var m522U = document.getElementById('m522U').value; 
+        var m522T = m522 * m522U;
+          document.getElementById('m522P').value = m522T.toFixed(2); 
+} 
+function m523() {
+        var m523 = document.getElementById('m523').value;
+        var m523U = document.getElementById('m523U').value; 
+        var m523T = m523 * m523U;
+          document.getElementById('m523P').value = m523T.toFixed(2); 
+} 
+function m524() {
+        var m524 = document.getElementById('m524').value;
+        var m524U = document.getElementById('m524U').value; 
+        var m524T = m524 * m524U;
+          document.getElementById('m524P').value = m524T.toFixed(2); 
+} 
+function m525() {
+        var m525 = document.getElementById('m525').value;
+        var m525U = document.getElementById('m525U').value; 
+        var m525T = m525 * m525U;
+          document.getElementById('m525P').value = m525T.toFixed(2); 
+} 
+function m526() {
+        var m526 = document.getElementById('m526').value;
+        var m526U = document.getElementById('m526U').value; 
+        var m526T = m526 * m526U;
+          document.getElementById('m526P').value = m526T.toFixed(2); 
+} 
+function m527() {
+        var m527 = document.getElementById('m527').value;
+        var m527U = document.getElementById('m527U').value; 
+        var m527T = m527 * m527U;
+          document.getElementById('m527P').value = m527T.toFixed(2); 
+} 
+function m528() {
+        var m528 = document.getElementById('m528').value;
+        var m528U = document.getElementById('m528U').value; 
+        var m528T = m528 * m528U;
+          document.getElementById('m528P').value = m528T.toFixed(2); 
+} 
+function m529() {
+        var m529 = document.getElementById('m529').value;
+        var m529U = document.getElementById('m529U').value; 
+        var m529T = m529 * m529U;
+          document.getElementById('m529P').value = m529T.toFixed(2); 
+}
+function m530() {
+        var m530 = document.getElementById('m530').value;
+        var m530U = document.getElementById('m530U').value; 
+        var m530T = m530 * m530U;
+          document.getElementById('m530P').value = m530T.toFixed(2); 
+}
+function m531() {
+        var m531 = document.getElementById('m531').value;
+        var m531U = document.getElementById('m531U').value; 
+        var m531T = m531 * m531U;
+          document.getElementById('m531P').value = m531T.toFixed(2); 
+} 
+function m532() {
+        var m532 = document.getElementById('m532').value;
+        var m532U = document.getElementById('m532U').value; 
+        var m532T = m532 * m532U;
+          document.getElementById('m532P').value = m532T.toFixed(2); 
+} 
+function m533() {
+        var m533 = document.getElementById('m533').value;
+        var m533U = document.getElementById('m533U').value; 
+        var m533T = m533 * m533U;
+          document.getElementById('m533P').value = m533T.toFixed(2); 
+} 
+function m534() {
+        var m534 = document.getElementById('m534').value;
+        var m534U = document.getElementById('m534U').value; 
+        var m534T = m534 * m534U;
+          document.getElementById('m534P').value = m534T.toFixed(2); 
+} 
+function m535() {
+        var m535 = document.getElementById('m535').value;
+        var m535U = document.getElementById('m535U').value; 
+        var m535T = m535 * m535U;
+          document.getElementById('m535P').value = m535T.toFixed(2); 
+} 
+function m536() {
+        var m536 = document.getElementById('m536').value;
+        var m536U = document.getElementById('m536U').value; 
+        var m536T = m536 * m536U;
+          document.getElementById('m536P').value = m536T.toFixed(2); 
+} 
+function m537() {
+        var m537 = document.getElementById('m537').value;
+        var m537U = document.getElementById('m537U').value; 
+        var m537T = m537 * m537U;
+          document.getElementById('m537P').value = m537T.toFixed(2); 
+} 
+function m538() {
+        var m538 = document.getElementById('m538').value;
+        var m538U = document.getElementById('m538U').value; 
+        var m538T = m538 * m538U;
+          document.getElementById('m538P').value = m538T.toFixed(2); 
+} 
+function m539() {
+        var m539 = document.getElementById('m539').value;
+        var m539U = document.getElementById('m539U').value; 
+        var m539T = m539 * m539U;
+          document.getElementById('m539P').value = m539T.toFixed(2); 
+}
+function m540() {
+        var m540 = document.getElementById('m540').value;
+        var m540U = document.getElementById('m540U').value; 
+        var m540T = m540 * m540U;
+          document.getElementById('m540P').value = m540T.toFixed(2); 
+}
+function m541() {
+        var m541 = document.getElementById('m541').value;
+        var m541U = document.getElementById('m541U').value; 
+        var m541T = m541 * m541U;
+          document.getElementById('m541P').value = m541T.toFixed(2); 
+} 
+function m542() {
+        var m542 = document.getElementById('m542').value;
+        var m542U = document.getElementById('m542U').value; 
+        var m542T = m542 * m542U;
+          document.getElementById('m542P').value = m542T.toFixed(2); 
+} 
+function m543() {
+        var m543 = document.getElementById('m543').value;
+        var m543U = document.getElementById('m543U').value; 
+        var m543T = m543 * m543U;
+          document.getElementById('m543P').value = m543T.toFixed(2); 
+} 
+function m544() {
+        var m544 = document.getElementById('m544').value;
+        var m544U = document.getElementById('m544U').value; 
+        var m544T = m544 * m544U;
+          document.getElementById('m544P').value = m544T.toFixed(2); 
+} 
+function m545() {
+        var m545 = document.getElementById('m545').value;
+        var m545U = document.getElementById('m545U').value; 
+        var m545T = m545 * m545U;
+          document.getElementById('m545P').value = m545T.toFixed(2); 
+} 
+function m546() {
+        var m546 = document.getElementById('m546').value;
+        var m546U = document.getElementById('m546U').value; 
+        var m546T = m546 * m546U;
+          document.getElementById('m546P').value = m546T.toFixed(2); 
+} 
+function m547() {
+        var m547 = document.getElementById('m547').value;
+        var m547U = document.getElementById('m547U').value; 
+        var m547T = m547 * m547U;
+          document.getElementById('m547P').value = m547T.toFixed(2); 
+} 
+function m548() {
+        var m548 = document.getElementById('m548').value;
+        var m548U = document.getElementById('m548U').value; 
+        var m548T = m548 * m548U;
+          document.getElementById('m548P').value = m548T.toFixed(2); 
+} 
+function m549() {
+        var m549 = document.getElementById('m549').value;
+        var m549U = document.getElementById('m549U').value; 
+        var m549T = m549 * m549U;
+          document.getElementById('m549P').value = m549T.toFixed(2); 
+}
+function m550() {
+        var m550 = document.getElementById('m550').value;
+        var m550U = document.getElementById('m550U').value; 
+        var m550T = m550 * m550U;
+          document.getElementById('m550P').value = m550T.toFixed(2); 
+}
+function m551() {
+        var m551 = document.getElementById('m551').value;
+        var m551U = document.getElementById('m551U').value; 
+        var m551T = m551 * m551U;
+          document.getElementById('m551P').value = m551T.toFixed(2); 
+} 
+function m552() {
+        var m552 = document.getElementById('m552').value;
+        var m552U = document.getElementById('m552U').value; 
+        var m552T = m552 * m552U;
+          document.getElementById('m552P').value = m552T.toFixed(2); 
+} 
+function m553() {
+        var m553 = document.getElementById('m553').value;
+        var m553U = document.getElementById('m553U').value; 
+        var m553T = m553 * m553U;
+          document.getElementById('m553P').value = m553T.toFixed(2); 
+} 
+function m554() {
+        var m554 = document.getElementById('m554').value;
+        var m554U = document.getElementById('m554U').value; 
+        var m554T = m554 * m554U;
+          document.getElementById('m554P').value = m554T.toFixed(2); 
+} 
+function m555() {
+        var m555 = document.getElementById('m555').value;
+        var m555U = document.getElementById('m555U').value; 
+        var m555T = m555 * m555U;
+          document.getElementById('m555P').value = m555T.toFixed(2); 
+} 
+function m556() {
+        var m556 = document.getElementById('m556').value;
+        var m556U = document.getElementById('m556U').value; 
+        var m556T = m556 * m556U;
+          document.getElementById('m556P').value = m556T.toFixed(2); 
+} 
+function m557() {
+        var m557 = document.getElementById('m557').value;
+        var m557U = document.getElementById('m557U').value; 
+        var m557T = m557 * m557U;
+          document.getElementById('m557P').value = m557T.toFixed(2); 
+} 
+function m558() {
+        var m558 = document.getElementById('m558').value;
+        var m558U = document.getElementById('m558U').value; 
+        var m558T = m558 * m558U;
+          document.getElementById('m558P').value = m558T.toFixed(2); 
+} 
+function m559() {
+        var m559 = document.getElementById('m559').value;
+        var m559U = document.getElementById('m559U').value; 
+        var m559T = m559 * m559U;
+          document.getElementById('m559P').value = m559T.toFixed(2); 
+}
+function m560() {
+        var m560 = document.getElementById('m560').value;
+        var m560U = document.getElementById('m560U').value; 
+        var m560T = m560 * m560U;
+          document.getElementById('m560P').value = m560T.toFixed(2); 
+}
+function m561() {
+        var m561 = document.getElementById('m561').value;
+        var m561U = document.getElementById('m561U').value; 
+        var m561T = m561 * m561U;
+          document.getElementById('m561P').value = m561T.toFixed(2); 
+} 
+function m562() {
+        var m562 = document.getElementById('m562').value;
+        var m562U = document.getElementById('m562U').value; 
+        var m562T = m562 * m562U;
+          document.getElementById('m562P').value = m562T.toFixed(2); 
+} 
+function m563() {
+        var m563 = document.getElementById('m563').value;
+        var m563U = document.getElementById('m563U').value; 
+        var m563T = m563 * m563U;
+          document.getElementById('m563P').value = m563T.toFixed(2); 
+} 
+function m564() {
+        var m564 = document.getElementById('m564').value;
+        var m564U = document.getElementById('m564U').value; 
+        var m564T = m564 * m564U;
+          document.getElementById('m564P').value = m564T.toFixed(2); 
+} 
+function n565() {
+        var n565 = document.getElementById('n565').value;
+        var n565U = document.getElementById('n565U').value; 
+        var n565T = n565 * n565U;
+          document.getElementById('n565P').value = n565T.toFixed(2); 
+} 
+function n566() {
+        var n566 = document.getElementById('n566').value;
+        var n566U = document.getElementById('n566U').value; 
+        var n566T = n566 * n566U;
+          document.getElementById('n566P').value = n566T.toFixed(2); 
+} 
+function n567() {
+        var n567 = document.getElementById('n567').value;
+        var n567U = document.getElementById('n567U').value; 
+        var n567T = n567 * n567U;
+          document.getElementById('n567P').value = n567T.toFixed(2); 
+} 
+function n568() {
+        var n568 = document.getElementById('n568').value;
+        var n568U = document.getElementById('n568U').value; 
+        var n568T = n568 * n568U;
+          document.getElementById('n568P').value = n568T.toFixed(2); 
+} 
+function n569() {
+        var n569 = document.getElementById('n569').value;
+        var n569U = document.getElementById('n569U').value; 
+        var n569T = n569 * n569U;
+          document.getElementById('n569P').value = n569T.toFixed(2); 
+}
+function n570() {
+        var n570 = document.getElementById('n570').value;
+        var n570U = document.getElementById('n570U').value; 
+        var n570T = n570 * n570U;
+          document.getElementById('n570P').value = n570T.toFixed(2); 
+}
+function n571() {
+        var n571 = document.getElementById('n571').value;
+        var n571U = document.getElementById('n571U').value; 
+        var n571T = n571 * n571U;
+          document.getElementById('n571P').value = n571T.toFixed(2); 
+} 
+function n572() {
+        var n572 = document.getElementById('n572').value;
+        var n572U = document.getElementById('n572U').value; 
+        var n572T = n572 * n572U;
+          document.getElementById('n572P').value = n572T.toFixed(2); 
+} 
+function n573() {
+        var n573 = document.getElementById('n573').value;
+        var n573U = document.getElementById('n573U').value; 
+        var n573T = n573 * n573U;
+          document.getElementById('n573P').value = n573T.toFixed(2); 
+} 
+function n574() {
+        var n574 = document.getElementById('n574').value;
+        var n574U = document.getElementById('n574U').value; 
+        var n574T = n574 * n574U;
+          document.getElementById('n574P').value = n574T.toFixed(2); 
+} 
+function n575() {
+        var n575 = document.getElementById('n575').value;
+        var n575U = document.getElementById('n575U').value; 
+        var n575T = n575 * n575U;
+          document.getElementById('n575P').value = n575T.toFixed(2); 
+} 
+function n576() {
+        var n576 = document.getElementById('n576').value;
+        var n576U = document.getElementById('n576U').value; 
+        var n576T = n576 * n576U;
+          document.getElementById('n576P').value = n576T.toFixed(2); 
+} 
+function n577() {
+        var n577 = document.getElementById('n577').value;
+        var n577U = document.getElementById('n577U').value; 
+        var n577T = n577 * n577U;
+          document.getElementById('n577P').value = n577T.toFixed(2); 
+} 
+function n578() {
+        var n578 = document.getElementById('n578').value;
+        var n578U = document.getElementById('n578U').value; 
+        var n578T = n578 * n578U;
+          document.getElementById('n578P').value = n578T.toFixed(2); 
+} 
+function n579() {
+        var n579 = document.getElementById('n579').value;
+        var n579U = document.getElementById('n579U').value; 
+        var n579T = n579 * n579U;
+          document.getElementById('n579P').value = n579T.toFixed(2); 
+}
+function n580() {
+        var n580 = document.getElementById('n580').value;
+        var n580U = document.getElementById('n580U').value; 
+        var n580T = n580 * n580U;
+          document.getElementById('n580P').value = n580T.toFixed(2); 
+}
+function n581() {
+        var n581 = document.getElementById('n581').value;
+        var n581U = document.getElementById('n581U').value; 
+        var n581T = n581 * n581U;
+          document.getElementById('n581P').value = n581T.toFixed(2); 
+} 
+function o582() {
+        var o582 = document.getElementById('o582').value;
+        var o582U = document.getElementById('o582U').value; 
+        var o582T = o582 * o582U;
+          document.getElementById('o582P').value = o582T.toFixed(2); 
+} 
+function o583() {
+        var o583 = document.getElementById('o583').value;
+        var o583U = document.getElementById('o583U').value; 
+        var o583T = o583 * o583U;
+          document.getElementById('o583P').value = o583T.toFixed(2); 
+} 
+function o584() {
+        var o584 = document.getElementById('o584').value;
+        var o584U = document.getElementById('o584U').value; 
+        var o584T = o584 * o584U;
+          document.getElementById('o584P').value = o584T.toFixed(2); 
+} 
+function o585() {
+        var o585 = document.getElementById('o585').value;
+        var o585U = document.getElementById('o585U').value; 
+        var o585T = o585 * o585U;
+          document.getElementById('o585P').value = o585T.toFixed(2); 
+} 
+function o586() {
+        var o586 = document.getElementById('o586').value;
+        var o586U = document.getElementById('o586U').value; 
+        var o586T = o586 * o586U;
+          document.getElementById('o586P').value = o586T.toFixed(2); 
+} 
+function o587() {
+        var o587 = document.getElementById('o587').value;
+        var o587U = document.getElementById('o587U').value; 
+        var o587T = o587 * o587U;
+          document.getElementById('o587P').value = o587T.toFixed(2); 
+} 
+function o588() {
+        var o588 = document.getElementById('o588').value;
+        var o588U = document.getElementById('o588U').value; 
+        var o588T = o588 * o588U;
+          document.getElementById('o588P').value = o588T.toFixed(2); 
+} 
+function o589() {
+        var o589 = document.getElementById('o589').value;
+        var o589U = document.getElementById('o589U').value; 
+        var o589T = o589 * o589U;
+          document.getElementById('o589P').value = o589T.toFixed(2); 
+}
+function o590() {
+        var o590 = document.getElementById('o590').value;
+        var o590U = document.getElementById('o590U').value; 
+        var o590T = o590 * o590U;
+          document.getElementById('o590P').value = o590T.toFixed(2); 
+}
+function o591() {
+        var o591 = document.getElementById('o591').value;
+        var o591U = document.getElementById('o591U').value; 
+        var o591T = o591 * o591U;
+          document.getElementById('o591P').value = o591T.toFixed(2); 
+} 
+function o592() {
+        var o592 = document.getElementById('o592').value;
+        var o592U = document.getElementById('o592U').value; 
+        var o592T = o592 * o592U;
+          document.getElementById('o592P').value = o592T.toFixed(2); 
+} 
+function o593() {
+        var o593 = document.getElementById('o593').value;
+        var o593U = document.getElementById('o593U').value; 
+        var o593T = o593 * o593U;
+          document.getElementById('o593P').value = o593T.toFixed(2); 
+} 
+function o594() {
+        var o594 = document.getElementById('o594').value;
+        var o594U = document.getElementById('o594U').value; 
+        var o594T = o594 * o594U;
+          document.getElementById('o594P').value = o594T.toFixed(2); 
+} 
+function o595() {
+        var o595 = document.getElementById('o595').value;
+        var o595U = document.getElementById('o595U').value; 
+        var o595T = o595 * o595U;
+          document.getElementById('o595P').value = o595T.toFixed(2); 
+} 
+function o596() {
+        var o596 = document.getElementById('o596').value;
+        var o596U = document.getElementById('o596U').value; 
+        var o596T = o596 * o596U;
+          document.getElementById('o596P').value = o596T.toFixed(2); 
+} 
+function o597() {
+        var o597 = document.getElementById('o597').value;
+        var o597U = document.getElementById('o597U').value; 
+        var o597T = o597 * o597U;
+          document.getElementById('o597P').value = o597T.toFixed(2); 
+} 
+function o598() {
+        var o598 = document.getElementById('o598').value;
+        var o598U = document.getElementById('o598U').value; 
+        var o598T = o598 * o598U;
+          document.getElementById('o598P').value = o598T.toFixed(2); 
+} 
+function o599() {
+        var o599 = document.getElementById('o599').value;
+        var o599U = document.getElementById('o599U').value; 
+        var o599T = o599 * o599U;
+          document.getElementById('o599P').value = o599T.toFixed(2); 
+}function o600() {
+        var o600 = document.getElementById('o600').value;
+        var o600U = document.getElementById('o600U').value; 
+        var o600T = o600 * o600U;
+          document.getElementById('o600P').value = o600T.toFixed(2); 
+}
+function o601() {
+        var o601 = document.getElementById('o601').value;
+        var o601U = document.getElementById('o601U').value; 
+        var o601T = o601 * o601U;
+          document.getElementById('o601P').value = o601T.toFixed(2); 
+} 
+function o602() {
+        var o602 = document.getElementById('o602').value;
+        var o602U = document.getElementById('o602U').value; 
+        var o602T = o602 * o602U;
+          document.getElementById('o602P').value = o602T.toFixed(2); 
+} 
+function o603() {
+        var o603 = document.getElementById('o603').value;
+        var o603U = document.getElementById('o603U').value; 
+        var o603T = o603 * o603U;
+          document.getElementById('o603P').value = o603T.toFixed(2); 
+} 
+function o604() {
+        var o604 = document.getElementById('o604').value;
+        var o604U = document.getElementById('o604U').value; 
+        var o604T = o604 * o604U;
+          document.getElementById('o604P').value = o604T.toFixed(2); 
+} 
+function o605() {
+        var o605 = document.getElementById('o605').value;
+        var o605U = document.getElementById('o605U').value; 
+        var o605T = o605 * o605U;
+          document.getElementById('o605P').value = o605T.toFixed(2); 
+} 
+function o606() {
+        var o606 = document.getElementById('o606').value;
+        var o606U = document.getElementById('o606U').value; 
+        var o606T = o606 * o606U;
+          document.getElementById('o606P').value = o606T.toFixed(2); 
+} 
+function o607() {
+        var o607 = document.getElementById('o607').value;
+        var o607U = document.getElementById('o607U').value; 
+        var o607T = o607 * o607U;
+          document.getElementById('o607P').value = o607T.toFixed(2); 
+} 
+function o608() {
+        var o608 = document.getElementById('o608').value;
+        var o608U = document.getElementById('o608U').value; 
+        var o608T = o608 * o608U;
+          document.getElementById('o608P').value = o608T.toFixed(2); 
+} 
+function o609() {
+        var o609 = document.getElementById('o609').value;
+        var o609U = document.getElementById('o609U').value; 
+        var o609T = o609 * o609U;
+          document.getElementById('o609P').value = o609T.toFixed(2); 
+}
+function o610() {
+        var o610 = document.getElementById('o610').value;
+        var o610U = document.getElementById('o610U').value; 
+        var o610T = o610 * o610U;
+          document.getElementById('o610P').value = o610T.toFixed(2); 
+}
+function p611() {
+        var p611 = document.getElementById('p611').value;
+        var p611U = document.getElementById('p611U').value; 
+        var p611T = p611 * p611U;
+          document.getElementById('p611P').value = p611T.toFixed(2); 
+} 
+function p612() {
+        var p612 = document.getElementById('p612').value;
+        var p612U = document.getElementById('p612U').value; 
+        var p612T = p612 * p612U;
+          document.getElementById('p612P').value = p612T.toFixed(2); 
+} 
+function p613() {
+        var p613 = document.getElementById('p613').value;
+        var p613U = document.getElementById('p613U').value; 
+        var p613T = p613 * p613U;
+          document.getElementById('p613P').value = p613T.toFixed(2); 
+} 
+function p614() {
+        var p614 = document.getElementById('p614').value;
+        var p614U = document.getElementById('p614U').value; 
+        var p614T = p614 * p614U;
+          document.getElementById('p614P').value = p614T.toFixed(2); 
+} 
+function p615() {
+        var p615 = document.getElementById('p615').value;
+        var p615U = document.getElementById('p615U').value; 
+        var p615T = p615 * p615U;
+          document.getElementById('p615P').value = p615T.toFixed(2); 
+} 
+function p616() {
+        var p616 = document.getElementById('p616').value;
+        var p616U = document.getElementById('p616U').value; 
+        var p616T = p616 * p616U;
+          document.getElementById('p616P').value = p616T.toFixed(2); 
+} 
+function p617() {
+        var p617 = document.getElementById('p617').value;
+        var p617U = document.getElementById('p617U').value; 
+        var p617T = p617 * p617U;
+          document.getElementById('p617P').value = p617T.toFixed(2); 
+} 
+function p618() {
+        var p618 = document.getElementById('p618').value;
+        var p618U = document.getElementById('p618U').value; 
+        var p618T = p618 * p618U;
+          document.getElementById('p618P').value = p618T.toFixed(2); 
+} 
+function p619() {
+        var p619 = document.getElementById('p619').value;
+        var p619U = document.getElementById('p619U').value; 
+        var p619T = p619 * p619U;
+          document.getElementById('p619P').value = p619T.toFixed(2); 
+}
+function p620() {
+        var p620 = document.getElementById('p620').value;
+        var p620U = document.getElementById('p620U').value; 
+        var p620T = p620 * p620U;
+          document.getElementById('p620P').value = p620T.toFixed(2); 
+}
+function p621() {
+        var p621 = document.getElementById('p621').value;
+        var p621U = document.getElementById('p621U').value; 
+        var p621T = p621 * p621U;
+          document.getElementById('p621P').value = p621T.toFixed(2); 
+} 
+function p622() {
+        var p622 = document.getElementById('p622').value;
+        var p622U = document.getElementById('p622U').value; 
+        var p622T = p622 * p622U;
+          document.getElementById('p622P').value = p622T.toFixed(2); 
+} 
+function p623() {
+        var p623 = document.getElementById('p623').value;
+        var p623U = document.getElementById('p623U').value; 
+        var p623T = p623 * p623U;
+          document.getElementById('p623P').value = p623T.toFixed(2); 
+} 
+function p624() {
+        var p624 = document.getElementById('p624').value;
+        var p624U = document.getElementById('p624U').value; 
+        var p624T = p624 * p624U;
+          document.getElementById('p624P').value = p624T.toFixed(2); 
+} 
+function p625() {
+        var p625 = document.getElementById('p625').value;
+        var p625U = document.getElementById('p625U').value; 
+        var p625T = p625 * p625U;
+          document.getElementById('p625P').value = p625T.toFixed(2); 
+} 
+function p626() {
+        var p626 = document.getElementById('p626').value;
+        var p626U = document.getElementById('p626U').value; 
+        var p626T = p626 * p626U;
+          document.getElementById('p626P').value = p626T.toFixed(2); 
+} 
+function p627() {
+        var p627 = document.getElementById('p627').value;
+        var p627U = document.getElementById('p627U').value; 
+        var p627T = p627 * p627U;
+          document.getElementById('p627P').value = p627T.toFixed(2); 
+} 
+function p628() {
+        var p628 = document.getElementById('p628').value;
+        var p628U = document.getElementById('p628U').value; 
+        var p628T = p628 * p628U;
+          document.getElementById('p628P').value = p628T.toFixed(2); 
+} 
+function p629() {
+        var p629 = document.getElementById('p629').value;
+        var p629U = document.getElementById('p629U').value; 
+        var p629T = p629 * p629U;
+          document.getElementById('p629P').value = p629T.toFixed(2); 
+}
+function p630() {
+        var p630 = document.getElementById('p630').value;
+        var p630U = document.getElementById('p630U').value; 
+        var p630T = p630 * p630U;
+          document.getElementById('p630P').value = p630T.toFixed(2); 
+}
+function p631() {
+        var p631 = document.getElementById('p631').value;
+        var p631U = document.getElementById('p631U').value; 
+        var p631T = p631 * p631U;
+          document.getElementById('p631P').value = p631T.toFixed(2); 
+} 
+function p632() {
+        var p632 = document.getElementById('p632').value;
+        var p632U = document.getElementById('p632U').value; 
+        var p632T = p632 * p632U;
+          document.getElementById('p632P').value = p632T.toFixed(2); 
+} 
+function p633() {
+        var p633 = document.getElementById('p633').value;
+        var p633U = document.getElementById('p633U').value; 
+        var p633T = p633 * p633U;
+          document.getElementById('p633P').value = p633T.toFixed(2); 
+} 
+function p634() {
+        var p634 = document.getElementById('p634').value;
+        var p634U = document.getElementById('p634U').value; 
+        var p634T = p634 * p634U;
+          document.getElementById('p634P').value = p634T.toFixed(2); 
+} 
+function p635() {
+        var p635 = document.getElementById('p635').value;
+        var p635U = document.getElementById('p635U').value; 
+        var p635T = p635 * p635U;
+          document.getElementById('p635P').value = p635T.toFixed(2); 
+} 
+function p636() {
+        var p636 = document.getElementById('p636').value;
+        var p636U = document.getElementById('p636U').value; 
+        var p636T = p636 * p636U;
+          document.getElementById('p636P').value = p636T.toFixed(2); 
+} 
+function p637() {
+        var p637 = document.getElementById('p637').value;
+        var p637U = document.getElementById('p637U').value; 
+        var p637T = p637 * p637U;
+          document.getElementById('p637P').value = p637T.toFixed(2); 
+} 
+function p638() {
+        var p638 = document.getElementById('p638').value;
+        var p638U = document.getElementById('p638U').value; 
+        var p638T = p638 * p638U;
+          document.getElementById('p638P').value = p638T.toFixed(2); 
+} 
+function p639() {
+        var p639 = document.getElementById('p639').value;
+        var p639U = document.getElementById('p639U').value; 
+        var p639T = p639 * p639U;
+          document.getElementById('p639P').value = p639T.toFixed(2); 
+}
+function p640() {
+        var p640 = document.getElementById('p640').value;
+        var p640U = document.getElementById('p640U').value; 
+        var p640T = p640 * p640U;
+          document.getElementById('p640P').value = p640T.toFixed(2); 
+}
+function p641() {
+        var p641 = document.getElementById('p641').value;
+        var p641U = document.getElementById('p641U').value; 
+        var p641T = p641 * p641U;
+          document.getElementById('p641P').value = p641T.toFixed(2); 
+} 
+function p642() {
+        var p642 = document.getElementById('p642').value;
+        var p642U = document.getElementById('p642U').value; 
+        var p642T = p642 * p642U;
+          document.getElementById('p642P').value = p642T.toFixed(2); 
+} 
+function p643() {
+        var p643 = document.getElementById('p643').value;
+        var p643U = document.getElementById('p643U').value; 
+        var p643T = p643 * p643U;
+          document.getElementById('p643P').value = p643T.toFixed(2); 
+} 
+function p644() {
+        var p644 = document.getElementById('p644').value;
+        var p644U = document.getElementById('p644U').value; 
+        var p644T = p644 * p644U;
+          document.getElementById('p644P').value = p644T.toFixed(2); 
+} 
+function p645() {
+        var p645 = document.getElementById('p645').value;
+        var p645U = document.getElementById('p645U').value; 
+        var p645T = p645 * p645U;
+          document.getElementById('p645P').value = p645T.toFixed(2); 
+} 
+function p646() {
+        var p646 = document.getElementById('p646').value;
+        var p646U = document.getElementById('p646U').value; 
+        var p646T = p646 * p646U;
+          document.getElementById('p646P').value = p646T.toFixed(2); 
+} 
+function p647() {
+        var p647 = document.getElementById('p647').value;
+        var p647U = document.getElementById('p647U').value; 
+        var p647T = p647 * p647U;
+          document.getElementById('p647P').value = p647T.toFixed(2); 
+} 
+function p648() {
+        var p648 = document.getElementById('p648').value;
+        var p648U = document.getElementById('p648U').value; 
+        var p648T = p648 * p648U;
+          document.getElementById('p648P').value = p648T.toFixed(2); 
+} 
+function p649() {
+        var p649 = document.getElementById('p649').value;
+        var p649U = document.getElementById('p649U').value; 
+        var p649T = p649 * p649U;
+          document.getElementById('p649P').value = p649T.toFixed(2); 
+}
+function p650() {
+        var p650 = document.getElementById('p650').value;
+        var p650U = document.getElementById('p650U').value; 
+        var p650T = p650 * p650U;
+          document.getElementById('p650P').value = p650T.toFixed(2); 
+}
+function p651() {
+        var p651 = document.getElementById('p651').value;
+        var p651U = document.getElementById('p651U').value; 
+        var p651T = p651 * p651U;
+          document.getElementById('p651P').value = p651T.toFixed(2); 
+} 
+function p652() {
+        var p652 = document.getElementById('p652').value;
+        var p652U = document.getElementById('p652U').value; 
+        var p652T = p652 * p652U;
+          document.getElementById('p652P').value = p652T.toFixed(2); 
+} 
+function p653() {
+        var p653 = document.getElementById('p653').value;
+        var p653U = document.getElementById('p653U').value; 
+        var p653T = p653 * p653U;
+          document.getElementById('p653P').value = p653T.toFixed(2); 
+} 
+function p654() {
+        var p654 = document.getElementById('p654').value;
+        var p654U = document.getElementById('p654U').value; 
+        var p654T = p654 * p654U;
+          document.getElementById('p654P').value = p654T.toFixed(2); 
+} 
+function p655() {
+        var p655 = document.getElementById('p655').value;
+        var p655U = document.getElementById('p655U').value; 
+        var p655T = p655 * p655U;
+          document.getElementById('p655P').value = p655T.toFixed(2); 
+} 
+function p656() {
+        var p656 = document.getElementById('p656').value;
+        var p656U = document.getElementById('p656U').value; 
+        var p656T = p656 * p656U;
+          document.getElementById('p656P').value = p656T.toFixed(2); 
+} 
+function p657() {
+        var p657 = document.getElementById('p657').value;
+        var p657U = document.getElementById('p657U').value; 
+        var p657T = p657 * p657U;
+          document.getElementById('p657P').value = p657T.toFixed(2); 
+} 
+function p658() {
+        var p658 = document.getElementById('p658').value;
+        var p658U = document.getElementById('p658U').value; 
+        var p658T = p658 * p658U;
+          document.getElementById('p658P').value = p658T.toFixed(2); 
+} 
+function p659() {
+        var p659 = document.getElementById('p659').value;
+        var p659U = document.getElementById('p659U').value; 
+        var p659T = p659 * p659U;
+          document.getElementById('p659P').value = p659T.toFixed(2); 
+}
+function q660() {
+        var q660 = document.getElementById('q660').value;
+        var q660U = document.getElementById('q660U').value; 
+        var q660T = q660 * q660U;
+          document.getElementById('q660P').value = q660T.toFixed(2); 
+}
+function q661() {
+        var q661 = document.getElementById('q661').value;
+        var q661U = document.getElementById('q661U').value; 
+        var q661T = q661 * q661U;
+          document.getElementById('q661P').value = q661T.toFixed(2); 
+} 
+function q662() {
+        var q662 = document.getElementById('q662').value;
+        var q662U = document.getElementById('q662U').value; 
+        var q662T = q662 * q662U;
+          document.getElementById('q662P').value = q662T.toFixed(2); 
+} 
+function q663() {
+        var q663 = document.getElementById('q663').value;
+        var q663U = document.getElementById('q663U').value; 
+        var q663T = q663 * q663U;
+          document.getElementById('q663P').value = q663T.toFixed(2); 
+} 
+function r664() {
+        var r664 = document.getElementById('r664').value;
+        var r664U = document.getElementById('r664U').value; 
+        var r664T = r664 * r664U;
+          document.getElementById('r664P').value = r664T.toFixed(2); 
+} 
+function r665() {
+        var r665 = document.getElementById('r665').value;
+        var r665U = document.getElementById('r665U').value; 
+        var r665T = r665 * r665U;
+          document.getElementById('r665P').value = r665T.toFixed(2); 
+} 
+function r666() {
+        var r666 = document.getElementById('r666').value;
+        var r666U = document.getElementById('r666U').value; 
+        var r666T = r666 * r666U;
+          document.getElementById('r666P').value = r666T.toFixed(2); 
+} 
+function r667() {
+        var r667 = document.getElementById('r667').value;
+        var r667U = document.getElementById('r667U').value; 
+        var r667T = r667 * r667U;
+          document.getElementById('r667P').value = r667T.toFixed(2); 
+} 
+function r668() {
+        var r668 = document.getElementById('r668').value;
+        var r668U = document.getElementById('r668U').value; 
+        var r668T = r668 * r668U;
+          document.getElementById('r668P').value = r668T.toFixed(2); 
+} 
+function r669() {
+        var r669 = document.getElementById('r669').value;
+        var r669U = document.getElementById('r669U').value; 
+        var r669T = r669 * r669U;
+          document.getElementById('r669P').value = r669T.toFixed(2); 
+}
+function r670() {
+        var r670 = document.getElementById('r670').value;
+        var r670U = document.getElementById('r670U').value; 
+        var r670T = r670 * r670U;
+          document.getElementById('r670P').value = r670T.toFixed(2); 
+}
+function r671() {
+        var r671 = document.getElementById('r671').value;
+        var r671U = document.getElementById('r671U').value; 
+        var r671T = r671 * r671U;
+          document.getElementById('r671P').value = r671T.toFixed(2); 
+} 
+function r672() {
+        var r672 = document.getElementById('r672').value;
+        var r672U = document.getElementById('r672U').value; 
+        var r672T = r672 * r672U;
+          document.getElementById('r672P').value = r672T.toFixed(2); 
+} 
+function r673() {
+        var r673 = document.getElementById('r673').value;
+        var r673U = document.getElementById('r673U').value; 
+        var r673T = r673 * r673U;
+          document.getElementById('r673P').value = r673T.toFixed(2); 
+} 
+function r674() {
+        var r674 = document.getElementById('r674').value;
+        var r674U = document.getElementById('r674U').value; 
+        var r674T = r674 * r674U;
+          document.getElementById('r674P').value = r674T.toFixed(2); 
+} 
+function r675() {
+        var r675 = document.getElementById('r675').value;
+        var r675U = document.getElementById('r675U').value; 
+        var r675T = r675 * r675U;
+          document.getElementById('r675P').value = r675T.toFixed(2); 
+} 
+function r676() {
+        var r676 = document.getElementById('r676').value;
+        var r676U = document.getElementById('r676U').value; 
+        var r676T = r676 * r676U;
+          document.getElementById('r676P').value = r676T.toFixed(2); 
+} 
+function r677() {
+        var r677 = document.getElementById('r677').value;
+        var r677U = document.getElementById('r677U').value; 
+        var r677T = r677 * r677U;
+          document.getElementById('r677P').value = r677T.toFixed(2); 
+} 
+function r678() {
+        var r678 = document.getElementById('r678').value;
+        var r678U = document.getElementById('r678U').value; 
+        var r678T = r678 * r678U;
+          document.getElementById('r678P').value = r678T.toFixed(2); 
+} 
+function r679() {
+        var r679 = document.getElementById('r679').value;
+        var r679U = document.getElementById('r679U').value; 
+        var r679T = r679 * r679U;
+          document.getElementById('r679P').value = r679T.toFixed(2); 
+}
+function r680() {
+        var r680 = document.getElementById('r680').value;
+        var r680U = document.getElementById('r680U').value; 
+        var r680T = r680 * r680U;
+          document.getElementById('r680P').value = r680T.toFixed(2); 
+}
+function s681() {
+        var s681 = document.getElementById('s681').value;
+        var s681U = document.getElementById('s681U').value; 
+        var s681T = s681 * s681U;
+          document.getElementById('s681P').value = s681T.toFixed(2); 
+} 
+function s682() {
+        var s682 = document.getElementById('s682').value;
+        var s682U = document.getElementById('s682U').value; 
+        var s682T = s682 * s682U;
+          document.getElementById('s682P').value = s682T.toFixed(2); 
+} 
+function s683() {
+        var s683 = document.getElementById('s683').value;
+        var s683U = document.getElementById('s683U').value; 
+        var s683T = s683 * s683U;
+          document.getElementById('s683P').value = s683T.toFixed(2); 
+} 
+function s684() {
+        var s684 = document.getElementById('s684').value;
+        var s684U = document.getElementById('s684U').value; 
+        var s684T = s684 * s684U;
+          document.getElementById('s684P').value = s684T.toFixed(2); 
+} 
+function s685() {
+        var s685 = document.getElementById('s685').value;
+        var s685U = document.getElementById('s685U').value; 
+        var s685T = s685 * s685U;
+          document.getElementById('s685P').value = s685T.toFixed(2); 
+} 
+function s686() {
+        var s686 = document.getElementById('s686').value;
+        var s686U = document.getElementById('s686U').value; 
+        var s686T = s686 * s686U;
+          document.getElementById('s686P').value = s686T.toFixed(2); 
+} 
+function s687() {
+        var s687 = document.getElementById('s687').value;
+        var s687U = document.getElementById('s687U').value; 
+        var s687T = s687 * s687U;
+          document.getElementById('s687P').value = s687T.toFixed(2); 
+} 
+function s688() {
+        var s688 = document.getElementById('s688').value;
+        var s688U = document.getElementById('s688U').value; 
+        var s688T = s688 * s688U;
+          document.getElementById('s688P').value = s688T.toFixed(2); 
+} 
+function s689() {
+        var s689 = document.getElementById('s689').value;
+        var s689U = document.getElementById('s689U').value; 
+        var s689T = s689 * s689U;
+          document.getElementById('s689P').value = s689T.toFixed(2); 
+}
+function s690() {
+        var s690 = document.getElementById('s690').value;
+        var s690U = document.getElementById('s690U').value; 
+        var s690T = s690 * s690U;
+          document.getElementById('s690P').value = s690T.toFixed(2); 
+}
+function s691() {
+        var s691 = document.getElementById('s691').value;
+        var s691U = document.getElementById('s691U').value; 
+        var s691T = s691 * s691U;
+          document.getElementById('s691P').value = s691T.toFixed(2); 
+} 
+function s692() {
+        var s692 = document.getElementById('s692').value;
+        var s692U = document.getElementById('s692U').value; 
+        var s692T = s692 * s692U;
+          document.getElementById('s692P').value = s692T.toFixed(2); 
+} 
+function s693() {
+        var s693 = document.getElementById('s693').value;
+        var s693U = document.getElementById('s693U').value; 
+        var s693T = s693 * s693U;
+          document.getElementById('s693P').value = s693T.toFixed(2); 
+} 
+function s694() {
+        var s694 = document.getElementById('s694').value;
+        var s694U = document.getElementById('s694U').value; 
+        var s694T = s694 * s694U;
+          document.getElementById('s694P').value = s694T.toFixed(2); 
+} 
+function s695() {
+        var s695 = document.getElementById('s695').value;
+        var s695U = document.getElementById('s695U').value; 
+        var s695T = s695 * s695U;
+          document.getElementById('s695P').value = s695T.toFixed(2); 
+} 
+function s696() {
+        var s696 = document.getElementById('s696').value;
+        var s696U = document.getElementById('s696U').value; 
+        var s696T = s696 * s696U;
+          document.getElementById('s696P').value = s696T.toFixed(2); 
+} 
+function s697() {
+        var s697 = document.getElementById('s697').value;
+        var s697U = document.getElementById('s697U').value; 
+        var s697T = s697 * s697U;
+          document.getElementById('s697P').value = s697T.toFixed(2); 
+} 
+function s698() {
+        var s698 = document.getElementById('s698').value;
+        var s698U = document.getElementById('s698U').value; 
+        var s698T = s698 * s698U;
+          document.getElementById('s698P').value = s698T.toFixed(2); 
+} 
+function s699() {
+        var s699 = document.getElementById('s699').value;
+        var s699U = document.getElementById('s699U').value; 
+        var s699T = s699 * s699U;
+          document.getElementById('s699P').value = s699T.toFixed(2); 
+}
+function s700() {
+        var s700 = document.getElementById('s700').value;
+        var s700U = document.getElementById('s700U').value; 
+        var s700T = s700 * s700U;
+          document.getElementById('s700P').value = s700T.toFixed(2); 
+}
+function s701() {
+        var s701 = document.getElementById('s701').value;
+        var s701U = document.getElementById('s701U').value; 
+        var s701T = s701 * s701U;
+          document.getElementById('s701P').value = s701T.toFixed(2); 
+} 
+function s702() {
+        var s702 = document.getElementById('s702').value;
+        var s702U = document.getElementById('s702U').value; 
+        var s702T = s702 * s702U;
+          document.getElementById('s702P').value = s702T.toFixed(2); 
+} 
+function s703() {
+        var s703 = document.getElementById('s703').value;
+        var s703U = document.getElementById('s703U').value; 
+        var s703T = s703 * s703U;
+          document.getElementById('s703P').value = s703T.toFixed(2); 
+} 
+function s704() {
+        var s704 = document.getElementById('s704').value;
+        var s704U = document.getElementById('s704U').value; 
+        var s704T = s704 * s704U;
+          document.getElementById('s704P').value = s704T.toFixed(2); 
+} 
+function s705() {
+        var s705 = document.getElementById('s705').value;
+        var s705U = document.getElementById('s705U').value; 
+        var s705T = s705 * s705U;
+          document.getElementById('s705P').value = s705T.toFixed(2); 
+} 
+function s706() {
+        var s706 = document.getElementById('s706').value;
+        var s706U = document.getElementById('s706U').value; 
+        var s706T = s706 * s706U;
+          document.getElementById('s706P').value = s706T.toFixed(2); 
+} 
+function s707() {
+        var s707 = document.getElementById('s707').value;
+        var s707U = document.getElementById('s707U').value; 
+        var s707T = s707 * s707U;
+          document.getElementById('s707P').value = s707T.toFixed(2); 
+} 
+function s708() {
+        var s708 = document.getElementById('s708').value;
+        var s708U = document.getElementById('s708U').value; 
+        var s708T = s708 * s708U;
+          document.getElementById('s708P').value = s708T.toFixed(2); 
+} 
+function s709() {
+        var s709 = document.getElementById('s709').value;
+        var s709U = document.getElementById('s709U').value; 
+        var s709T = s709 * s709U;
+          document.getElementById('s709P').value = s709T.toFixed(2); 
+}
+function s710() {
+        var s710 = document.getElementById('s710').value;
+        var s710U = document.getElementById('s710U').value; 
+        var s710T = s710 * s710U;
+          document.getElementById('s710P').value = s710T.toFixed(2); 
+}
+function s711() {
+        var s711 = document.getElementById('s711').value;
+        var s711U = document.getElementById('s711U').value; 
+        var s711T = s711 * s711U;
+          document.getElementById('s711P').value = s711T.toFixed(2); 
+} 
+function s712() {
+        var s712 = document.getElementById('s712').value;
+        var s712U = document.getElementById('s712U').value; 
+        var s712T = s712 * s712U;
+          document.getElementById('s712P').value = s712T.toFixed(2); 
+} 
+function s713() {
+        var s713 = document.getElementById('s713').value;
+        var s713U = document.getElementById('s713U').value; 
+        var s713T = s713 * s713U;
+          document.getElementById('s713P').value = s713T.toFixed(2); 
+} 
+function s714() {
+        var s714 = document.getElementById('s714').value;
+        var s714U = document.getElementById('s714U').value; 
+        var s714T = s714 * s714U;
+          document.getElementById('s714P').value = s714T.toFixed(2); 
+} 
+function s715() {
+        var s715 = document.getElementById('s715').value;
+        var s715U = document.getElementById('s715U').value; 
+        var s715T = s715 * s715U;
+          document.getElementById('s715P').value = s715T.toFixed(2); 
+} 
+function s716() {
+        var s716 = document.getElementById('s716').value;
+        var s716U = document.getElementById('s716U').value; 
+        var s716T = s716 * s716U;
+          document.getElementById('s716P').value = s716T.toFixed(2); 
+} 
+function s717() {
+        var s717 = document.getElementById('s717').value;
+        var s717U = document.getElementById('s717U').value; 
+        var s717T = s717 * s717U;
+          document.getElementById('s717P').value = s717T.toFixed(2); 
+} 
+function s718() {
+        var s718 = document.getElementById('s718').value;
+        var s718U = document.getElementById('s718U').value; 
+        var s718T = s718 * s718U;
+          document.getElementById('s718P').value = s718T.toFixed(2); 
+} 
+function s719() {
+        var s719 = document.getElementById('s719').value;
+        var s719U = document.getElementById('s719U').value; 
+        var s719T = s719 * s719U;
+          document.getElementById('s719P').value = s719T.toFixed(2); 
+}
+function s720() {
+        var s720 = document.getElementById('s720').value;
+        var s720U = document.getElementById('s720U').value; 
+        var s720T = s720 * s720U;
+          document.getElementById('s720P').value = s720T.toFixed(2); 
+}
+function s721() {
+        var s721 = document.getElementById('s721').value;
+        var s721U = document.getElementById('s721U').value; 
+        var s721T = s721 * s721U;
+          document.getElementById('s721P').value = s721T.toFixed(2); 
+} 
+function s722() {
+        var s722 = document.getElementById('s722').value;
+        var s722U = document.getElementById('s722U').value; 
+        var s722T = s722 * s722U;
+          document.getElementById('s722P').value = s722T.toFixed(2); 
+} 
+function s723() {
+        var s723 = document.getElementById('s723').value;
+        var s723U = document.getElementById('s723U').value; 
+        var s723T = s723 * s723U;
+          document.getElementById('s723P').value = s723T.toFixed(2); 
+} 
+function s724() {
+        var s724 = document.getElementById('s724').value;
+        var s724U = document.getElementById('s724U').value; 
+        var s724T = s724 * s724U;
+          document.getElementById('s724P').value = s724T.toFixed(2); 
+} 
+function s725() {
+        var s725 = document.getElementById('s725').value;
+        var s725U = document.getElementById('s725U').value; 
+        var s725T = s725 * s725U;
+          document.getElementById('s725P').value = s725T.toFixed(2); 
+} 
+function t726() {
+        var t726 = document.getElementById('t726').value;
+        var t726U = document.getElementById('t726U').value; 
+        var t726T = t726 * t726U;
+          document.getElementById('t726P').value = t726T.toFixed(2); 
+} 
+function t727() {
+        var t727 = document.getElementById('t727').value;
+        var t727U = document.getElementById('t727U').value; 
+        var t727T = t727 * t727U;
+          document.getElementById('t727P').value = t727T.toFixed(2); 
+} 
+function t728() {
+        var t728 = document.getElementById('t728').value;
+        var t728U = document.getElementById('t728U').value; 
+        var t728T = t728 * t728U;
+          document.getElementById('t728P').value = t728T.toFixed(2); 
+} 
+function t729() {
+        var t729 = document.getElementById('t729').value;
+        var t729U = document.getElementById('t729U').value; 
+        var t729T = t729 * t729U;
+          document.getElementById('t729P').value = t729T.toFixed(2); 
+}
+function t730() {
+        var t730 = document.getElementById('t730').value;
+        var t730U = document.getElementById('t730U').value; 
+        var t730T = t730 * t730U;
+          document.getElementById('t730P').value = t730T.toFixed(2); 
+}
+function t731() {
+        var t731 = document.getElementById('t731').value;
+        var t731U = document.getElementById('t731U').value; 
+        var t731T = t731 * t731U;
+          document.getElementById('t731P').value = t731T.toFixed(2); 
+} 
+function t732() {
+        var t732 = document.getElementById('t732').value;
+        var t732U = document.getElementById('t732U').value; 
+        var t732T = t732 * t732U;
+          document.getElementById('t732P').value = t732T.toFixed(2); 
+} 
+function t733() {
+        var t733 = document.getElementById('t733').value;
+        var t733U = document.getElementById('t733U').value; 
+        var t733T = t733 * t733U;
+          document.getElementById('t733P').value = t733T.toFixed(2); 
+} 
+function t734() {
+        var t734 = document.getElementById('t734').value;
+        var t734U = document.getElementById('t734U').value; 
+        var t734T = t734 * t734U;
+          document.getElementById('t734P').value = t734T.toFixed(2); 
+} 
+function t735() {
+        var t735 = document.getElementById('t735').value;
+        var t735U = document.getElementById('t735U').value; 
+        var t735T = t735 * t735U;
+          document.getElementById('t735P').value = t735T.toFixed(2); 
+} 
+function t736() {
+        var t736 = document.getElementById('t736').value;
+        var t736U = document.getElementById('t736U').value; 
+        var t736T = t736 * t736U;
+          document.getElementById('t736P').value = t736T.toFixed(2); 
+} 
+function t737() {
+        var t737 = document.getElementById('t737').value;
+        var t737U = document.getElementById('t737U').value; 
+        var t737T = t737 * t737U;
+          document.getElementById('t737P').value = t737T.toFixed(2); 
+} 
+function t738() {
+        var t738 = document.getElementById('t738').value;
+        var t738U = document.getElementById('t738U').value; 
+        var t738T = t738 * t738U;
+          document.getElementById('t738P').value = t738T.toFixed(2); 
+} 
+function t739() {
+        var t739 = document.getElementById('t739').value;
+        var t739U = document.getElementById('t739U').value; 
+        var t739T = t739 * t739U;
+          document.getElementById('t739P').value = t739T.toFixed(2); 
+}
+function t740() {
+        var t740 = document.getElementById('t740').value;
+        var t740U = document.getElementById('t740U').value; 
+        var t740T = t740 * t740U;
+          document.getElementById('t740P').value = t740T.toFixed(2); 
+}
+function t741() {
+        var t741 = document.getElementById('t741').value;
+        var t741U = document.getElementById('t741U').value; 
+        var t741T = t741 * t741U;
+          document.getElementById('t741P').value = t741T.toFixed(2); 
+} 
+function t742() {
+        var t742 = document.getElementById('t742').value;
+        var t742U = document.getElementById('t742U').value; 
+        var t742T = t742 * t742U;
+          document.getElementById('t742P').value = t742T.toFixed(2); 
+} 
+function t743() {
+        var t743 = document.getElementById('t743').value;
+        var t743U = document.getElementById('t743U').value; 
+        var t743T = t743 * t743U;
+          document.getElementById('t743P').value = t743T.toFixed(2); 
+} 
+function t744() {
+        var t744 = document.getElementById('t744').value;
+        var t744U = document.getElementById('t744U').value; 
+        var t744T = t744 * t744U;
+          document.getElementById('t744P').value = t744T.toFixed(2); 
+} 
+function t745() {
+        var t745 = document.getElementById('t745').value;
+        var t745U = document.getElementById('t745U').value; 
+        var t745T = t745 * t745U;
+          document.getElementById('t745P').value = t745T.toFixed(2); 
+} 
+function t746() {
+        var t746 = document.getElementById('t746').value;
+        var t746U = document.getElementById('t746U').value; 
+        var t746T = t746 * t746U;
+          document.getElementById('t746P').value = t746T.toFixed(2); 
+} 
+function t747() {
+        var t747 = document.getElementById('t747').value;
+        var t747U = document.getElementById('t747U').value; 
+        var t747T = t747 * t747U;
+          document.getElementById('t747P').value = t747T.toFixed(2); 
+} 
+function t748() {
+        var t748 = document.getElementById('t748').value;
+        var t748U = document.getElementById('t748U').value; 
+        var t748T = t748 * t748U;
+          document.getElementById('t748P').value = t748T.toFixed(2); 
+} 
+function t749() {
+        var t749 = document.getElementById('t749').value;
+        var t749U = document.getElementById('t749U').value; 
+        var t749T = t749 * t749U;
+          document.getElementById('t749P').value = t749T.toFixed(2); 
+}
+function t750() {
+        var t750 = document.getElementById('t750').value;
+        var t750U = document.getElementById('t750U').value; 
+        var t750T = t750 * t750U;
+          document.getElementById('t750P').value = t750T.toFixed(2); 
+}
+function t751() {
+        var t751 = document.getElementById('t751').value;
+        var t751U = document.getElementById('t751U').value; 
+        var t751T = t751 * t751U;
+          document.getElementById('t751P').value = t751T.toFixed(2); 
+} 
+function t752() {
+        var t752 = document.getElementById('t752').value;
+        var t752U = document.getElementById('t752U').value; 
+        var t752T = t752 * t752U;
+          document.getElementById('t752P').value = t752T.toFixed(2); 
+} 
+function t753() {
+        var t753 = document.getElementById('t753').value;
+        var t753U = document.getElementById('t753U').value; 
+        var t753T = t753 * t753U;
+          document.getElementById('t753P').value = t753T.toFixed(2); 
+} 
+function t754() {
+        var t754 = document.getElementById('t754').value;
+        var t754U = document.getElementById('t754U').value; 
+        var t754T = t754 * t754U;
+          document.getElementById('t754P').value = t754T.toFixed(2); 
+} 
+function t755() {
+        var t755 = document.getElementById('t755').value;
+        var t755U = document.getElementById('t755U').value; 
+        var t755T = t755 * t755U;
+          document.getElementById('t755P').value = t755T.toFixed(2); 
+} 
+function t756() {
+        var t756 = document.getElementById('t756').value;
+        var t756U = document.getElementById('t756U').value; 
+        var t756T = t756 * t756U;
+          document.getElementById('t756P').value = t756T.toFixed(2); 
+} 
+function t757() {
+        var t757 = document.getElementById('t757').value;
+        var t757U = document.getElementById('t757U').value; 
+        var t757T = t757 * t757U;
+          document.getElementById('t757P').value = t757T.toFixed(2); 
+} 
+function t758() {
+        var t758 = document.getElementById('t758').value;
+        var t758U = document.getElementById('t758U').value; 
+        var t758T = t758 * t758U;
+          document.getElementById('t758P').value = t758T.toFixed(2); 
+} 
+function t759() {
+        var t759 = document.getElementById('t759').value;
+        var t759U = document.getElementById('t759U').value; 
+        var t759T = t759 * t759U;
+          document.getElementById('t759P').value = t759T.toFixed(2); 
+}
+function t760() {
+        var t760 = document.getElementById('t760').value;
+        var t760U = document.getElementById('t760U').value; 
+        var t760T = t760 * t760U;
+          document.getElementById('t760P').value = t760T.toFixed(2); 
+}
+function u761() {
+        var u761 = document.getElementById('u761').value;
+        var u761U = document.getElementById('u761U').value; 
+        var u761T = u761 * u761U;
+          document.getElementById('u761P').value = u761T.toFixed(2); 
+} 
+function u762() {
+        var u762 = document.getElementById('u762').value;
+        var u762U = document.getElementById('u762U').value; 
+        var u762T = u762 * u762U;
+          document.getElementById('u762P').value = u762T.toFixed(2); 
+} 
+function v763() {
+        var v763 = document.getElementById('v763').value;
+        var v763U = document.getElementById('v763U').value; 
+        var v763T = v763 * v763U;
+          document.getElementById('v763P').value = v763T.toFixed(2); 
+} 
+function v764() {
+        var v764 = document.getElementById('v764').value;
+        var v764U = document.getElementById('v764U').value; 
+        var v764T = v764 * v764U;
+          document.getElementById('v764P').value = v764T.toFixed(2); 
+} 
+function v765() {
+        var v765 = document.getElementById('v765').value;
+        var v765U = document.getElementById('v765U').value; 
+        var v765T = v765 * v765U;
+          document.getElementById('v765P').value = v765T.toFixed(2); 
+} 
+function v766() {
+        var v766 = document.getElementById('v766').value;
+        var v766U = document.getElementById('v766U').value; 
+        var v766T = v766 * v766U;
+          document.getElementById('v766P').value = v766T.toFixed(2); 
+} 
+function v767() {
+        var v767 = document.getElementById('v767').value;
+        var v767U = document.getElementById('v767U').value; 
+        var v767T = v767 * v767U;
+          document.getElementById('v767P').value = v767T.toFixed(2); 
+} 
+function v768() {
+        var v768 = document.getElementById('v768').value;
+        var v768U = document.getElementById('v768U').value; 
+        var v768T = v768 * v768U;
+          document.getElementById('v768P').value = v768T.toFixed(2); 
+} 
+function v769() {
+        var v769 = document.getElementById('v769').value;
+        var v769U = document.getElementById('v769U').value; 
+        var v769T = v769 * v769U;
+          document.getElementById('v769P').value = v769T.toFixed(2); 
+}
+function v770() {
+        var v770 = document.getElementById('v770').value;
+        var v770U = document.getElementById('v770U').value; 
+        var v770T = v770 * v770U;
+          document.getElementById('v770P').value = v770T.toFixed(2); 
+}
+function v771() {
+        var v771 = document.getElementById('v771').value;
+        var v771U = document.getElementById('v771U').value; 
+        var v771T = v771 * v771U;
+          document.getElementById('v771P').value = v771T.toFixed(2); 
+} 
+function v772() {
+        var v772 = document.getElementById('v772').value;
+        var v772U = document.getElementById('v772U').value; 
+        var v772T = v772 * v772U;
+          document.getElementById('v772P').value = v772T.toFixed(2); 
+} 
+function v773() {
+        var v773 = document.getElementById('v773').value;
+        var v773U = document.getElementById('v773U').value; 
+        var v773T = v773 * v773U;
+          document.getElementById('v773P').value = v773T.toFixed(2); 
+} 
+function v774() {
+        var v774 = document.getElementById('v774').value;
+        var v774U = document.getElementById('v774U').value; 
+        var v774T = v774 * v774U;
+          document.getElementById('v774P').value = v774T.toFixed(2); 
+} 
+function v775() {
+        var v775 = document.getElementById('v775').value;
+        var v775U = document.getElementById('v775U').value; 
+        var v775T = v775 * v775U;
+          document.getElementById('v775P').value = v775T.toFixed(2); 
+} 
+function v776() {
+        var v776 = document.getElementById('v776').value;
+        var v776U = document.getElementById('v776U').value; 
+        var v776T = v776 * v776U;
+          document.getElementById('v776P').value = v776T.toFixed(2); 
+} 
+function v777() {
+        var v777 = document.getElementById('v777').value;
+        var v777U = document.getElementById('v777U').value; 
+        var v777T = v777 * v777U;
+          document.getElementById('v777P').value = v777T.toFixed(2); 
+} 
+function v778() {
+        var v778 = document.getElementById('v778').value;
+        var v778U = document.getElementById('v778U').value; 
+        var v778T = v778 * v778U;
+          document.getElementById('v778P').value = v778T.toFixed(2); 
+} 
+function v779() {
+        var v779 = document.getElementById('v779').value;
+        var v779U = document.getElementById('v779U').value; 
+        var v779T = v779 * v779U;
+          document.getElementById('v779P').value = v779T.toFixed(2); 
+}
+function v780() {
+        var v780 = document.getElementById('v780').value;
+        var v780U = document.getElementById('v780U').value; 
+        var v780T = v780 * v780U;
+          document.getElementById('v780P').value = v780T.toFixed(2); 
+}
+function v781() {
+        var v781 = document.getElementById('v781').value;
+        var v781U = document.getElementById('v781U').value; 
+        var v781T = v781 * v781U;
+          document.getElementById('v781P').value = v781T.toFixed(2); 
+} 
+function v782() {
+        var v782 = document.getElementById('v782').value;
+        var v782U = document.getElementById('v782U').value; 
+        var v782T = v782 * v782U;
+          document.getElementById('v782P').value = v782T.toFixed(2); 
+} 
+function v783() {
+        var v783 = document.getElementById('v783').value;
+        var v783U = document.getElementById('v783U').value; 
+        var v783T = v783 * v783U;
+          document.getElementById('v783P').value = v783T.toFixed(2); 
+} 
+function v784() {
+        var v784 = document.getElementById('v784').value;
+        var v784U = document.getElementById('v784U').value; 
+        var v784T = v784 * v784U;
+          document.getElementById('v784P').value = v784T.toFixed(2); 
+} 
+function v785() {
+        var v785 = document.getElementById('v785').value;
+        var v785U = document.getElementById('v785U').value; 
+        var v785T = v785 * v785U;
+          document.getElementById('v785P').value = v785T.toFixed(2); 
+} 
+function v786() {
+        var v786 = document.getElementById('v786').value;
+        var v786U = document.getElementById('v786U').value; 
+        var v786T = v786 * v786U;
+          document.getElementById('v786P').value = v786T.toFixed(2); 
+} 
+function v787() {
+        var v787 = document.getElementById('v787').value;
+        var v787U = document.getElementById('v787U').value; 
+        var v787T = v787 * v787U;
+          document.getElementById('v787P').value = v787T.toFixed(2); 
+} 
+function w788() {
+        var w788 = document.getElementById('w788').value;
+        var w788U = document.getElementById('w788U').value; 
+        var w788T = w788 * w788U;
+          document.getElementById('w788P').value = w788T.toFixed(2); 
+} 
+function w789() {
+        var w789 = document.getElementById('w789').value;
+        var w789U = document.getElementById('w789U').value; 
+        var w789T = w789 * w789U;
+          document.getElementById('w789P').value = w789T.toFixed(2); 
+}
+function w790() {
+        var w790 = document.getElementById('w790').value;
+        var w790U = document.getElementById('w790U').value; 
+        var w790T = w790 * w790U;
+          document.getElementById('w790P').value = w790T.toFixed(2); 
+}
+function z791() {
+        var z791 = document.getElementById('z791').value;
+        var z791U = document.getElementById('z791U').value; 
+        var z791T = z791 * z791U;
+          document.getElementById('z791P').value = z791T.toFixed(2); 
+} 
+function z792() {
+        var z792 = document.getElementById('z792').value;
+        var z792U = document.getElementById('z792U').value; 
+        var z792T = z792 * z792U;
+          document.getElementById('z792P').value = z792T.toFixed(2); 
+} 
+function z793() {
+        var z793 = document.getElementById('z793').value;
+        var z793U = document.getElementById('z793U').value; 
+        var z793T = z793 * z793U;
+          document.getElementById('z793P').value = z793T.toFixed(2); 
+} 

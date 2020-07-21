@@ -2961,7 +2961,7 @@ function i379() {
         var i379 = document.getElementById('i379').value;
         var i379U = document.getElementById('i379U').value; 
         var i379T = i379 * i379U;
-          document.getElementById('i379P').value = i369T.toFixed(2); 
+          document.getElementById('i379P').value = i379T.toFixed(2); 
 }
 function i380() {
         var i380 = document.getElementById('i380').value;
@@ -3415,9 +3415,9 @@ function i454() {
 } 
 function i455() {
         var i455 = document.getElementById('i455').value;
-        var i375U = document.getElementById('i375U').value; 
-        var i375T = i375 * i375U;
-          document.getElementById('i375P').value = i375T.toFixed(2); 
+        var i455U = document.getElementById('i455U').value; 
+        var i455T = i455 * i455U;
+          document.getElementById('i455P').value = i455T.toFixed(2); 
 } 
 function k456() {
         var k456 = document.getElementById('k456').value;

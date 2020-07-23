@@ -689,6 +689,116 @@ function Paracetamol5() {
         var Paracetamol5T = Paracetamol5 * Paracetamol5U;
           document.getElementById('Paracetamol5P').value = Paracetamol5T.toFixed(2); 
 } 
+function Benzylp() {
+        var Benzylp = document.getElementById('Benzylp').value;
+        var BenzylpU = document.getElementById('BenzylpU').value; 
+        var BenzylpT = Benzylp * BenzylpU;
+          document.getElementById('BenzylpP').value = BenzylpT.toFixed(2); 
+} 
+function ASA() {
+        var ASA = document.getElementById('ASA').value;
+        var ASAU = document.getElementById('ASAU').value; 
+        var ASAT = ASA * ASAU;
+          document.getElementById('ASAP').value = ASAT.toFixed(2); 
+} 
+function Pregabalin() {
+        var Pregabalin = document.getElementById('Pregabalin').value;
+        var PregabalinU = document.getElementById('PregabalinU').value; 
+        var PregabalinT = Pregabalin * PregabalinU;
+          document.getElementById('PregabalinP').value = PregabalinT.toFixed(2); 
+} 
+function Regulari() {
+        var Regulari = document.getElementById('Regulari').value;
+        var RegulariU = document.getElementById('RegulariU').value; 
+        var RegulariT = Regulari * RegulariU;
+          document.getElementById('RegulariP').value = RegulariT.toFixed(2); 
+} 
+function Cefazolin500() {
+        var Cefazolin500 = document.getElementById('Cefazolin500').value;
+        var Cefazolin500U = document.getElementById('Cefazolin500U').value; 
+        var Cefazolin500T = Cefazolin500 * Cefazolin500U;
+          document.getElementById('Cefazolin500P').value = Cefazolin500T.toFixed(2); 
+} 
+function Sitagliptinm() {
+        var Sitagliptinm = document.getElementById('Sitagliptinm').value;
+        var SitagliptinmU = document.getElementById('SitagliptinmU').value; 
+        var SitagliptinmT = Sitagliptinm * SitagliptinmU;
+          document.getElementById('SitagliptinmP').value = SitagliptinmT.toFixed(2); 
+} 
+function AriprazoleT() {
+        var AriprazoleT = document.getElementById('AriprazoleT').value;
+        var AriprazoleTU = document.getElementById('AriprazoleTU').value; 
+        var AriprazoleTT = AriprazoleT * AriprazoleTU;
+          document.getElementById('AriprazoleTP').value = AriprazoleTT.toFixed(2); 
+} 
+function Sertraline50() {
+        var Sertraline50 = document.getElementById('Sertraline50').value;
+        var Sertraline50U = document.getElementById('Sertraline50U').value; 
+        var Sertraline50T = Sertraline50 * Sertraline50U;
+          document.getElementById('Sertraline50P').value = Sertraline50T.toFixed(2); 
+} 
+function Clozapinet() {
+        var Clozapinet = document.getElementById('Clozapinet').value;
+        var ClozapinetU = document.getElementById('ClozapinetU').value; 
+        var ClozapinetT = Clozapinet * ClozapinetU;
+          document.getElementById('ClozapinetP').value = ClozapinetT.toFixed(2); 
+} 
+function Levofloxacin500() {
+        var Levofloxacin500 = document.getElementById('Levofloxacin500').value;
+        var Levofloxacin500U = document.getElementById('Levofloxacin500U').value; 
+        var Levofloxacin500T = Levofloxacin500 * Levofloxacin500U;
+          document.getElementById('Levofloxacin500P').value = Levofloxacin500T.toFixed(2); 
+} 
+function Immunosin() {
+        var Immunosin = document.getElementById('Immunosin').value;
+        var ImmunosinU = document.getElementById('ImmunosinU').value; 
+        var ImmunosinT = Immunosin * ImmunosinU;
+          document.getElementById('ImmunosinP').value = ImmunosinT.toFixed(2); 
+} 
+function Multivitaminsc() {
+        var Multivitaminsc = document.getElementById('Multivitaminsc').value;
+        var MultivitaminscU = document.getElementById('MultivitaminscU').value; 
+        var MultivitaminscT = Multivitaminsc * MultivitaminscU;
+          document.getElementById('MultivitaminscP').value = MultivitaminscT.toFixed(2); 
+} 
+function Calciumc() {
+        var Calciumc = document.getElementById('Calciumc').value;
+        var CalciumcU = document.getElementById('CalciumcU').value; 
+        var CalciumcT = Calciumc * CalciumcU;
+          document.getElementById('CalciumcP').value = CalciumcT.toFixed(2); 
+} 
+function Potassiumc() {
+        var Potassiumc = document.getElementById('Potassiumc').value;
+        var PotassiumcU = document.getElementById('PotassiumcU').value; 
+        var PotassiumcT = Potassiumc * PotassiumcU;
+          document.getElementById('PotassiumcP').value = PotassiumcT.toFixed(2); 
+} 
+function Sodiumc() {
+        var Sodiumc = document.getElementById('Sodiumc').value;
+        var SodiumcU = document.getElementById('SodiumcU').value; 
+        var SodiumcT = Sodiumc * SodiumcU;
+          document.getElementById('SodiumcP').value = SodiumcT.toFixed(2); 
+} 
+function Lactatedr() {
+        var Lactatedr = document.getElementById('Lactatedr').value;
+        var LactatedrU = document.getElementById('LactatedrU').value; 
+        var LactatedrT = Lactatedr * LactatedrU;
+          document.getElementById('LactatedrP').value = LactatedrT.toFixed(2); 
+} 
+function Hydrocortisone() {
+        var Hydrocortisone = document.getElementById('Hydrocortisone').value;
+        var HydrocortisoneU = document.getElementById('HydrocortisoneU').value; 
+        var HydrocortisoneT = Hydrocortisone * HydrocortisoneU;
+          document.getElementById('HydrocortisoneP').value = HydrocortisoneT.toFixed(2); 
+} 
+function Levocetirizinem() {
+        var Levocetirizinem = document.getElementById('Levocetirizinem').value;
+        var LevocetirizinemU = document.getElementById('LevocetirizinemU').value; 
+        var LevocetirizinemT = Levocetirizinem * LevocetirizinemU;
+          document.getElementById('LevocetirizinemP').value = LevocetirizinemT.toFixed(2); 
+} 
+
+/******************************** Start Drug Price Reference Index - DOH *************************************************/
 function a1() {
         var a1 = document.getElementById('a1').value;
         var a1U = document.getElementById('a1U').value; 
